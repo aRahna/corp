@@ -1,0 +1,2832 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="ru" variant_id="0">Жил сапожник с женой и детьми у мужика на квартире.</se>
+    <se lang="lt" variant_id="1">한 구두장이가 아내와 자식들을 데리고 어느 농부의 집에 세 들어 살고 있었다.</se>
+    <weight variant_id="1">0,209091</weight>
+  </para>
+  <para id="1">
+    <se lang="ru" variant_id="0">Ни дома своего, ни земли у него не было, и кормился он с семьею сапожной работой.</se>
+    <se lang="lt" variant_id="1">그는 집도 땅도 없이 오직 구두 짓는 일만으로 식구들을 먹여 살렸다.</se>
+    <weight variant_id="1">-0,00952381</weight>
+  </para>
+  <para id="2">
+    <se lang="ru" variant_id="0">Хлеб был дорогой, а работа дешевая, и что заработает, то и проест.</se>
+    <se lang="lt" variant_id="1">빵값은 비싸고 품삯은 보잘 것 없어 버는 족족 입에 풀칠하기 바쁜 형편이었다.</se>
+    <weight variant_id="1">0,209302</weight>
+  </para>
+  <para id="3">
+    <se lang="ru" variant_id="0">Была у сапожника одна шуба с женой, да и та износилась в лохмотья; и второй год собирался сапожник купить овчин на новую шубу.</se>
+    <se lang="lt" variant_id="1">그에게는 아내와 번갈아 가며 입는 외투 한 벌이 있었는데, 이젠 그것마저 낡아 누더기가 되어 버렸다. 그래서 그는 2 년 전부터 양가죽을 사서 외투를 새로 만들어야겠다고 별러 오고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="4">
+    <se lang="ru" variant_id="0">К осени собрались у сапожника деньжонки: три рубля бумажка лежала у бабы в сундуке, а еще пять рублей двадцать копеек было за мужиками в селе.</se>
+    <se lang="lt" variant_id="1">가을로 들어서면서 약간의 여유가 생겼다.아내의 손지갑에 모셔놓은 3 루블 외에도 이웃에꾸어준 돈이 5 루블 20 카페이카쯤 되었던 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="5">
+    <se lang="ru" variant_id="0">И собрался с утра сапожник в село за шубой.</se>
+    <se lang="lt" variant_id="1">구두장이는 양가죽을 사기 위해 이른 아침부터 마을에 갈 채비를 했다.</se>
+    <weight variant_id="1">0,291667</weight>
+  </para>
+  <para id="6">
+    <se lang="ru" variant_id="0">Надел нанковую бабью куртушку на вате на рубаху, сверху кафтан суконный, взял бумажку трехрублевую в карман, выломал палку и пошел после завтрака.</se>
+    <se lang="lt" variant_id="1">아침밥을 먹자마자 루바시카위에 아내의 무명 내의를 껴입고 그 위에 다시 모직 외투를 걸친 다음, 그는 3 루블 지폐를 속주머니에 넣고 나무막대를 지팡이 삼아 집을 나섰다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="7">
+    <se lang="ru" variant_id="0">Думал: «Получу пять рублей с мужиков, приложу своих три, – куплю овчин на шубу».</se>
+    <se lang="lt" variant_id="1">꿔준 돈 5 루블을 보태서 양가죽을 사야지.</se>
+    <weight variant_id="1">-0,0119048</weight>
+  </para>
+  <para id="8">
+    <se lang="ru" variant_id="0">Пришел сапожник в село, зашел к одному мужику – дома нет, обещала баба на неделе прислать мужа с деньгами, а денег не дала; зашел к другому, – забожился мужик, что нет денег, только двадцать копеек отдал за починку сапог.</se>
+    <se lang="lt" variant_id="1">마을에 이르러 그는 한 농부의 집을 찾아갔다. 그런데 하필이면 주인이 외출중이라, 그 집 마누라에게서 1 주일 안에 돈을 마련해 주인편에 보내겠다는 약속만 받고 돌아서는 수밖에 없었다. 그 다음으로 찾아간 농부는 하늘에 맹세코 지금은 돈이 없다면서 장화 수선비라며 단돈 20 카페이카를 내놓았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="9">
+    <se lang="ru" variant_id="0">Думал сапожник в долг взять овчины, – в долг не поверил овчинник.</se>
+    <se lang="lt" variant_id="1">구두장이는 하는 수 없이 외상으로나마 양가죽을 사 보려고 했다. 그러나 가게 주인은 어림없는 소리 말라는 듯 잘라 말했다.</se>
+    <weight variant_id="1">0,05</weight>
+  </para>
+  <para id="10">
+    <se lang="ru" variant_id="0">– Денежки, – говорит, – принеси, тогда выбирай любые, а то знаем мы, как долги выбирать.</se>
+    <se lang="lt" variant_id="1">- 돈을 갖고 오세요. 그럼 달라는 대로 주지. 외상값 받아내기가 얼마나 힘든지 넌덜머리가 난다니까.</se>
+    <weight variant_id="1">0,291667</weight>
+  </para>
+  <para id="11">
+    <se lang="ru" variant_id="0">Так и не сделал сапожник никакого дела, только получил двадцать копеек за починку да взял у мужика старые валенки кожей обшить.</se>
+    <se lang="lt" variant_id="1">구두장이는 결국 장화 수선비 20 카페이카와 어느 집에선가 낡은 털장화를 꿰매는 일감 하나를 얻었을 뿐 헛수고만 하고 집으로 돌아가게 되었다.</se>
+    <weight variant_id="1">-0,255</weight>
+  </para>
+  <para id="12">
+    <se lang="ru" variant_id="0">Потужил сапожник, выпил на все двадцать копеек водки и пошел домой без шубы.</se>
+    <se lang="lt" variant_id="1">그는 속이 상해 20 카페이카를 몽땅 털어 보드카를 마셔 버리고는 양가죽은 만져보지도 못한 채 집을 향해 터덜터덜 걸었다.</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="13">
+    <se lang="ru" variant_id="0">С утра сапожнику морозно показалось, а выпивши – тепло было и без шубы.</se>
+    <se lang="lt" variant_id="1">아침에 집을 나설 때는 꽤 추운 것 같았는데 술을 한 잔 걸치고 나니 털외투 없이도 몸이 따뜻했다.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="14">
+    <se lang="ru" variant_id="0">Идет сапожник дорогой, одной рукой палочкой по мерзлым калмыжкам постукивает, а другой рукой сапогами валеными помахивает, сам с собой разговаривает.</se>
+    <se lang="lt" variant_id="1">그는 걸어가면서 한 손에 든 지팡이로 꽁꽁 얼어붙은 땅을 두드리고, 다른 한 손으론 낡은 털장화를 휘둘러 대면서 혼자 중얼거렸다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="15">
+    <se lang="ru" variant_id="0">– Я, – говорит, – и без шубы тёпел.</se>
+    <se lang="lt" variant_id="1">- 외투 같은 것 없어도 따뜻하기만 하네.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="16">
+    <se lang="ru" variant_id="0">Выпил шкалик; оно во всех жилках играет.</se>
+    <se lang="lt" variant_id="1">겨우 한 잔 걸쳤을 뿐인데 요렇게 후끈후끈한 걸.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="17">
+    <se lang="ru" variant_id="0">И тулупа не надо. Иду, забывши горе.</se>
+    <se lang="lt" variant_id="1">까짓 털가죽옷 따윈 필요없다구!</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="18">
+    <se lang="ru" variant_id="0">Вот какой я человек!</se>
+    <se lang="lt" variant_id="1">이 몸은 이런 분이다 이거야!</se>
+    <weight variant_id="1">0,183333</weight>
+  </para>
+  <para id="19">
+    <se lang="ru" variant_id="0">Мне что? Я без шубы проживу.</se>
+    <se lang="lt" variant_id="1">암, 그렇고 말고. 그깟 모피 외투 없어도 이 몸은 얼마든지 살 수 있다구!</se>
+    <weight variant_id="1">-0,201923</weight>
+  </para>
+  <para id="20">
+    <se lang="ru" variant_id="0">Мне ее век не надо.</se>
+    <se lang="lt" variant_id="1">그런 건 평생 필요없다 이 말씀이야!</se>
+    <weight variant_id="1">-0,0608108</weight>
+  </para>
+  <para id="21">
+    <se lang="ru" variant_id="0">Одно – баба заскучает.</se>
+    <se lang="lt" variant_id="1">그런데 마누라가 가만있지 않을걸.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="22">
+    <se lang="ru" variant_id="0">Да и обидно – ты на него работай, а он тебя водит.</se>
+    <se lang="lt" variant_id="1">이건 좀 골치 아픈데 빌어먹을. 남은 죽어라 일해 주는데 이건 콧방귀만 뀌고 앉았으니!</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="23">
+    <se lang="ru" variant_id="0">Постой же ты теперь: не принесешь денежки, я с тебя шапку сниму, ей-богу, сниму.</se>
+    <se lang="lt" variant_id="1">어디 두고보라지 이번에도 돈을 갖고 오지 않으면 모자를 날려 버릴 테니까.</se>
+    <weight variant_id="1">0,229091</weight>
+  </para>
+  <para id="24">
+    <se lang="ru" variant_id="0">А то что же это?</se>
+    <se lang="lt" variant_id="1">암 그러고 말고.</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="25">
+    <se lang="ru" variant_id="0">По двугривенному отдает!</se>
+    <se lang="lt" variant_id="1">고작 20 카페이카를 줘?</se>
+    <weight variant_id="1">0,271429</weight>
+  </para>
+  <para id="26">
+    <se lang="ru" variant_id="0">Ну что на двугривенный сделаешь?</se>
+    <se lang="lt" variant_id="1">그걸로 뭘 하라는 거야, 도대체?</se>
+    <weight variant_id="1">0,02</weight>
+  </para>
+  <para id="27">
+    <se lang="ru" variant_id="0">Выпить – одно.</se>
+    <se lang="lt" variant_id="1">술 한잔이면 날아가 버릴 돈을 가지고!</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="28">
+    <se lang="ru" variant_id="0">Тебе нужда, а мне не нужда?</se>
+    <se lang="lt" variant_id="1">그래, 너희들만 곤란하고 난 곤란하지 않다는 거야?</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="29">
+    <se lang="ru" variant_id="0">У тебя и дом, и скотина, и все, а я весь тут; у тебя свой хлеб, а я на покупном, – откуда хочешь, а три рубля в неделю на один хлеб подай.</se>
+    <se lang="lt" variant_id="1">너희들은 집도 있고 가축도 있어. 하지만 내겐 맨몸뚱이뿐이라구. 너희들은 농사지어 빵을 얻지만 나는 하나부터 열까지 일일이 사다 먹어야 한다구. 어떻게 버둥대든 빵값만도 1 주일에 3 루블은 치러야지.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="30">
+    <se lang="ru" variant_id="0">Приду домой – а хлеб дошел; опять полтора рубля выложь.</se>
+    <se lang="lt" variant_id="1">집에 돌아가 빵이라도 떨어졌으면 당장 1 루블 반을 써야 된다구.</se>
+    <weight variant_id="1">-0,28125</weight>
+  </para>
+  <para id="31">
+    <se lang="ru" variant_id="0">Так ты мне мое отдай.</se>
+    <se lang="lt" variant_id="1">그러니 내 돈을 갚아 줘야겠어.</se>
+    <weight variant_id="1">0,2625</weight>
+  </para>
+  <para id="32">
+    <se lang="ru" variant_id="0">Подходит так сапожник к часовне у повертка, глядит – за самой за часовней что-то белеется.</se>
+    <se lang="lt" variant_id="1">이윽고 구두장이는 길모퉁이의 작은 교회 근처에 이르렀다. 그때 교회 뒤에서 뭔가 허연 것이 보였다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="33">
+    <se lang="ru" variant_id="0">Стало уж смеркаться. Приглядывается сапожник, а не может рассмотреть, что такое.</se>
+    <se lang="lt" variant_id="1">이미 날이 저문 뒤라, 눈을 부릅뜨고 바라보았지만 뭔지 알 수가 없었다.</se>
+    <weight variant_id="1">-0,0838235</weight>
+  </para>
+  <para id="34">
+    <se lang="ru" variant_id="0">«Камня, думает, здесь такого не было. Скотина?</se>
+    <se lang="lt" variant_id="1">"여기쯤에 돌 같은 건 없었는데, 소인가?</se>
+    <weight variant_id="1">0,204</weight>
+  </para>
+  <para id="35">
+    <se lang="ru" variant_id="0">На скотину не похоже.</se>
+    <se lang="lt" variant_id="1">하지만 짐승 같지는 않은걸.</se>
+    <weight variant_id="1">0,192857</weight>
+  </para>
+  <para id="36">
+    <se lang="ru" variant_id="0">С головы похоже на человека, да бело что-то.</se>
+    <se lang="lt" variant_id="1">머리를 보니 사람 같기도 한데 너무 하얗군.</se>
+    <weight variant_id="1">-0,0535714</weight>
+  </para>
+  <para id="37">
+    <se lang="ru" variant_id="0">Да и человеку зачем тут быть?»</se>
+    <se lang="lt" variant_id="1">하긴 사람이라면 이런 데 있을 리가 있나."</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="38">
+    <se lang="ru" variant_id="0">Подошел ближе – совсем видно стало.</se>
+    <se lang="lt" variant_id="1">그는 조금 더 가까이 다가갔다. 그제야 그 물체가 또렷하게 보였다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="39">
+    <se lang="ru" variant_id="0">Что за чудо: точно, человек, живой ли, мертвый, голышом сидит, прислонен к часовне и не шевелится.</se>
+    <se lang="lt" variant_id="1">그런데 정말 이상한 일이었다. 사람인 건 분명한데 죽었는지 살았는지, 그 남자는 벌거벗은 알몸인 채 차디찬 교회 벽에 기대어 꼼짝을 않고 있었던 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="40">
+    <se lang="ru" variant_id="0">Страшно стало сапожнику; думает себе:</se>
+    <se lang="lt" variant_id="1">구두장이는 갑자기 무서운 생각이 들었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="41">
+    <se lang="ru" variant_id="0">«Убили какие-нибудь человека, раздели, да и бросили тут.</se>
+    <se lang="lt" variant_id="1">"누가 이 자를 죽여 옷을 몽땅 벗기고는 여기 내다버린 모양이군.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="42">
+    <se lang="ru" variant_id="0">Подойди только, и не разделаешься потом».</se>
+    <se lang="lt" variant_id="1">근처에서 어정거리다간 무슨 변을 당할지도 몰라."</se>
+    <weight variant_id="1">-0,0529412</weight>
+  </para>
+  <para id="43">
+    <se lang="ru" variant_id="0">И пошел сапожник мимо.</se>
+    <se lang="lt" variant_id="1">구두장이는 그곳을 그냥 지나쳤다.</se>
+    <weight variant_id="1">0,255</weight>
+  </para>
+  <para id="44">
+    <se lang="ru" variant_id="0">Зашел за часовню – не видать стало человека.</se>
+    <se lang="lt" variant_id="1">교회 모퉁이를 돌아가자 남자는 더 이상 보이지 않았다.</se>
+    <weight variant_id="1">-0,033871</weight>
+  </para>
+  <para id="45">
+    <se lang="ru" variant_id="0">Прошел часовню, оглянулся, видит – человек отслонился от часовни, шевелится, как будто приглядывается.</se>
+    <se lang="lt" variant_id="1">교회 앞을 지나면서 힐끔 돌아보니 남자가 벽에서 몸을 일으켜 움직이고 있는 것이 보였다. 남자는 이쪽의 거동을 살피고 있는 것 같았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="46">
+    <se lang="ru" variant_id="0">Еще больше заробел сапожник, думает себе:</se>
+    <se lang="lt" variant_id="1">구두장이는 겁이 더럭 나서 생각했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="47">
+    <se lang="ru" variant_id="0">«Подойти или мимо пройти?</se>
+    <se lang="lt" variant_id="1">"다가가 볼까, 그냥 지나쳐 버릴까?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="48">
+    <se lang="ru" variant_id="0">Подойти – как бы худо не было: кто его знает, какой он?</se>
+    <se lang="lt" variant_id="1">공연히 다가갔다가 무슨 변이라도 당하면? 저자가 누군지도 모르는 터에 말이야.</se>
+    <weight variant_id="1">0,214286</weight>
+  </para>
+  <para id="49">
+    <se lang="ru" variant_id="0">Не за добрые дела попал сюда.</se>
+    <se lang="lt" variant_id="1">좋은 일 하고 이런 데 버려져 있을 리도 만무하고.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="50">
+    <se lang="ru" variant_id="0">Подойдешь, а он вскочит да задушит, и не уйдешь от него.</se>
+    <se lang="lt" variant_id="1">어쩌면 내가 접근하길 기다렸다가 달려들어 목을 조를지도 모르지. 그렇게 되면 꼼짝없이 당하는 수밖에.</se>
+    <weight variant_id="1">0,0964286</weight>
+  </para>
+  <para id="51">
+    <se lang="ru" variant_id="0">А не задушит, так поди вожжайся с ним.</se>
+    <se lang="lt" variant_id="1">설사 목을 조르지는 않는다 해도 뭔가 시끄러운 꼴을 당할 게 뻔해.</se>
+    <weight variant_id="1">-0,0857143</weight>
+  </para>
+  <para id="52">
+    <se lang="ru" variant_id="0">Что с ним, с голым, делать?</se>
+    <se lang="lt" variant_id="1">저벌거숭이를 어쩐다?</se>
+    <weight variant_id="1">0,26087</weight>
+  </para>
+  <para id="53">
+    <se lang="ru" variant_id="0">Не с себя же снять, последнее отдать.</se>
+    <se lang="lt" variant_id="1">내가 입고 있는 걸 홀랑 벗어 줄 수도 없고.</se>
+    <weight variant_id="1">0,0666667</weight>
+  </para>
+  <para id="54">
+    <se lang="ru" variant_id="0">Пронеси только бог!»</se>
+    <se lang="lt" variant_id="1">오 하느님, 제발 무사히 지나가게 해 주십시오!"</se>
+    <weight variant_id="1">0,203226</weight>
+  </para>
+  <para id="55">
+    <se lang="ru" variant_id="0">И прибавил сапожник шагу.</se>
+    <se lang="lt" variant_id="1">머리 속에 그런 생각들을 굴리며 구두장이는 걸음을 재촉했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="56">
+    <se lang="ru" variant_id="0">Стал уж проходить часовню, да зазрила его совесть.</se>
+    <se lang="lt" variant_id="1">그러나 교회를 거의 지났쳤을 무렵 갑자기 양심이 고개를 쳐들었다.</se>
+    <weight variant_id="1">-0,05625</weight>
+  </para>
+  <para id="57">
+    <se lang="ru" variant_id="0">И остановился сапожник на дороге.</se>
+    <se lang="lt" variant_id="1">그는 길 복판에 멈춰 서서 중얼거렸다.</se>
+    <weight variant_id="1">0,126316</weight>
+  </para>
+  <para id="58">
+    <se lang="ru" variant_id="0">– Ты что же это, – говорит на себя, – Семен, делаешь?</se>
+    <se lang="lt" variant_id="1">- 도대체 뭘 하고 있는 거지, 세몬?</se>
+    <weight variant_id="1">-0,0454545</weight>
+  </para>
+  <para id="59">
+    <se lang="ru" variant_id="0">Человек в беде помирает, а ты заробел, мимо идешь.</se>
+    <se lang="lt" variant_id="1">사람이 재난을 만나 죽어가고 있는데 겁을 집어먹고 슬그머니 꽁무니를 빼려 하다니.</se>
+    <weight variant_id="1">-0,0580645</weight>
+  </para>
+  <para id="60">
+    <se lang="ru" variant_id="0">Али дюже разбогател? боишься, ограбят богатство твое?</se>
+    <se lang="lt" variant_id="1">네가 무슨 큰 부자라도 된다는 거야? 그래서 가진 걸 빼앗기게 될까봐 겁이라도 난다는 거야, 뭐야?</se>
+    <weight variant_id="1">0,275</weight>
+  </para>
+  <para id="61">
+    <se lang="ru" variant_id="0">Ай, Сема, неладно!</se>
+    <se lang="lt" variant_id="1">세몬, 그건 옳지 않은 짓이야!</se>
+    <weight variant_id="1">-0,157895</weight>
+  </para>
+  <para id="62">
+    <se lang="ru" variant_id="0">Повернулся Семен и пошел к человеку.</se>
+    <se lang="lt" variant_id="1">결국 세몬은 발길을 돌려 남자에게로 걸어가기 시작했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="63">
+    <se lang="ru" variant_id="0">Подходит Семен к человеку, разглядывает его и видит: человек молодой, в силе, не видать на теле побоев, только видно – измерз человек и напуган; сидит, прислонясь, и не глядит на Семена, будто ослаб, глаз поднять не может.</se>
+    <se lang="lt" variant_id="1">세몬이 가까이 다가가서 살펴보니 남자는 아직 젊고 제법 힘도 있어 보였으며 몸에 얻어맞은 흔적 같은 건 보이지 않았다. 그러나 추위 때문에 몸이 꽁꽁 얼어붙은 데다 몹시 겁을 먹고 있는 듯했다. 그는 벽에 기대앉은 채 세몬 쪽은 쳐다보지도 않았다. 너무 지쳐서 눈을 뜰 기운조차 없는 모양이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="64">
+    <se lang="ru" variant_id="0">Подошел Семен вплоть, и вдруг как будто очнулся человек, повернул голову, открыл глаза и взглянул на Семена.</se>
+    <se lang="lt" variant_id="1">세몬이 바짝 다가가자 남자는 그제야 눈을 뜨고 세몬을 쳐다보았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="65">
+    <se lang="ru" variant_id="0">И с этого взгляда полюбился человек Семену.</se>
+    <se lang="lt" variant_id="1">세몬은 그의 눈이 마음에 들었다.</se>
+    <weight variant_id="1">0,177778</weight>
+  </para>
+  <para id="66">
+    <se lang="ru" variant_id="0">Бросил он наземь валенки, распоясался, положил подпояску на валенки, скинул кафтан.</se>
+    <se lang="lt" variant_id="1">그래서 털장화를 땅바닥에 내동댕이치고 벨트를 끌러 장화 위에 던진 다음 입고 있던 외투를 벗으면서 말했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="67">
+    <se lang="ru" variant_id="0">– Будет, – говорит, – толковать-то!</se>
+    <se lang="lt" variant_id="1">- 이러고 있을때가 아니야!</se>
+    <weight variant_id="1">0,177273</weight>
+  </para>
+  <para id="68">
+    <se lang="ru" variant_id="0">Одевай, что ли!</se>
+    <se lang="lt" variant_id="1">자, 이거라도 입어보라구!</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="69">
+    <se lang="ru" variant_id="0">Ну-ка!</se>
+    <se lang="lt" variant_id="1">어서!</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="70">
+    <se lang="ru" variant_id="0">Взял Семен человека под локоть, стал поднимать.</se>
+    <se lang="lt" variant_id="1">세몬은 남자의 팔을 부축해 일으켰다.</se>
+    <weight variant_id="1">0,176471</weight>
+  </para>
+  <para id="71">
+    <se lang="ru" variant_id="0">И видит Семен – тело тонкое, чистое, руки, ноги не ломаные и лицо умильное.</se>
+    <se lang="lt" variant_id="1">일어선 남자를 보니, 훤칠한 몸매에 손과 발은 깨끗하고 얼굴빛도 온화한 젊은이였다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="72">
+    <se lang="ru" variant_id="0">Накинул ему Семен кафтан на плечи, – не попадет в рукава.</se>
+    <se lang="lt" variant_id="1">세몬은 그의 어깨에 외투를 걸쳐주었다. 그러나 팔이 소매 속으로 잘 들어가지 않았다.</se>
+    <weight variant_id="1">0,221053</weight>
+  </para>
+  <para id="73">
+    <se lang="ru" variant_id="0">Заправил ему Семен руки, натянул, запахнул кафтан и подтянул подпояскою.</se>
+    <se lang="lt" variant_id="1">세몬은 청년의 두 팔을 외투 소매에 끼워주고 옷깃을 잡아 당겨 앞을 여민 다음 허리띠를 둘러주었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="74">
+    <se lang="ru" variant_id="0">Снял было Семен картуз рваный, хотел на голого надеть, да холодно голове стало, думает:</se>
+    <se lang="lt" variant_id="1">그는 쓰고 있던 낡은 모자도 벗어서 청년에게 쒸워주려고 했다. 그러나 머리가 너무 썰렁해서 그는 생각을 바꾸었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="75">
+    <se lang="ru" variant_id="0">«У меня лысина во всю голову, а у него виски курчавые, длинные».</se>
+    <se lang="lt" variant_id="1">"나는 민둥머리지만 이 젊은이는 머리숱이 많으니까."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="76">
+    <se lang="ru" variant_id="0">Надел опять.</se>
+    <se lang="lt" variant_id="1">그는 모자를 다시 썼다.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="77">
+    <se lang="ru" variant_id="0">«Лучше сапоги ему обую».</se>
+    <se lang="lt" variant_id="1">"그보다는 장화를 신겨주는 것이 좋겠어."</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="78">
+    <se lang="ru" variant_id="0">Посадил его и сапоги валеные обул ему.</se>
+    <se lang="lt" variant_id="1">세몬은 청년을 다시 앉히고 털장화를 신겨주었다.</se>
+    <weight variant_id="1">-0,01875</weight>
+  </para>
+  <para id="79">
+    <se lang="ru" variant_id="0">– Так-то, брат.</se>
+    <se lang="lt" variant_id="1">- 이만하면 됐겠지.</se>
+    <weight variant_id="1">0,235714</weight>
+  </para>
+  <para id="80">
+    <se lang="ru" variant_id="0">Ну-ка, разминайся да согревайся.</se>
+    <se lang="lt" variant_id="1">자아, 이젠 좀 움직여 보라구. 몸이 녹게 말이야.</se>
+    <weight variant_id="1">0,171429</weight>
+  </para>
+  <para id="81">
+    <se lang="ru" variant_id="0">А эти дела все без нас разберут.</se>
+    <se lang="lt" variant_id="1">여기서 우물쭈물할 것 없잖아?</se>
+    <weight variant_id="1">0,277778</weight>
+  </para>
+  <para id="82">
+    <se lang="ru" variant_id="0">Идти можешь?</se>
+    <se lang="lt" variant_id="1">그런데 자네, 걸을 수는 있겠나?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="83">
+    <se lang="ru" variant_id="0">Стоит человек, умильно глядит на Семена, а выговорить ничего не может.</se>
+    <se lang="lt" variant_id="1">청년은 부드러운 눈길로 세몬을 바라볼 뿐 아무런 대꾸가 없었다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="84">
+    <se lang="ru" variant_id="0">– Что же не говоришь?</se>
+    <se lang="lt" variant_id="1">- 왜 말을 하지 않는 거야?</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="85">
+    <se lang="ru" variant_id="0">Не зимовать же тут.</se>
+    <se lang="lt" variant_id="1">여기서 겨울을 날 작정인가?</se>
+    <weight variant_id="1">0,105882</weight>
+  </para>
+  <para id="86">
+    <se lang="ru" variant_id="0">Надо к жилью.</se>
+    <se lang="lt" variant_id="1">어디든 사람 사는 데로 가야지.</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="87">
+    <se lang="ru" variant_id="0">Ну-ка, на вот дубинку мою, обопрись, коли ослаб.</se>
+    <se lang="lt" variant_id="1">여기 내 지팡이가 있으니까 걷기 힘들면 이거라도 짚으라구.</se>
+    <weight variant_id="1">-0,1</weight>
+  </para>
+  <para id="88">
+    <se lang="ru" variant_id="0">Раскачивайся-ка!</se>
+    <se lang="lt" variant_id="1">자, 가세! 가자니까!</se>
+    <weight variant_id="1">0,157143</weight>
+  </para>
+  <para id="89">
+    <se lang="ru" variant_id="0">И пошел человек.</se>
+    <se lang="lt" variant_id="1">청년은 걷기 시작했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="90">
+    <se lang="ru" variant_id="0">И пошел легко, не отстает.</se>
+    <se lang="lt" variant_id="1">뒤쳐지는 일도 없이 썩 잘 걸었다.</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="91">
+    <se lang="ru" variant_id="0">Идут они дорогой, и говорит Семен:</se>
+    <se lang="lt" variant_id="1">걸으면서 세몬이 물었다.</se>
+    <weight variant_id="1">0,289655</weight>
+  </para>
+  <para id="92">
+    <se lang="ru" variant_id="0">– Чей, значит, будешь?</se>
+    <se lang="lt" variant_id="1">- 그런데 자네 대체 어디서 왔나?</se>
+    <weight variant_id="1">0,0352941</weight>
+  </para>
+  <para id="93">
+    <se lang="ru" variant_id="0">– Я не здешний.</se>
+    <se lang="lt" variant_id="1">- 저는 이 고장 사람이 아닙니다. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="94">
+    <se lang="ru" variant_id="0">– Здешних-то я знаю.</se>
+    <se lang="lt" variant_id="1">- 이 고장 사람이라면 내가 모를 리 없지.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="95">
+    <se lang="ru" variant_id="0">Попал-то, значит, как сюда, под часовню?</se>
+    <se lang="lt" variant_id="1">내가 묻고 있는 건 어째서 이런 데 와 있느냐는거야. 저 교회 구석 같은 데 말일세.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="96">
+    <se lang="ru" variant_id="0">– Нельзя мне сказать.</se>
+    <se lang="lt" variant_id="1">- 그건 말씀드릴 수 없습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="97">
+    <se lang="ru" variant_id="0">– Должно, люди обидели?</se>
+    <se lang="lt" variant_id="1">- 들어보나마나 어떤 나쁜 놈들한테 몹쓸짓을 당했겠지.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="98">
+    <se lang="ru" variant_id="0">– Никто меня не обидел.</se>
+    <se lang="lt" variant_id="1">- 아무도 제게 나쁜 짓을 하지 않았습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="99">
+    <se lang="ru" variant_id="0">Меня бог наказал.</se>
+    <se lang="lt" variant_id="1">전 하느님으로부터 벌을 받은 것입니다.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="100">
+    <se lang="ru" variant_id="0">– Известно, все бог, да все же куда-нибудь прибиваться надо.</se>
+    <se lang="lt" variant_id="1">- 그야 만사가 하느님의 뜻이니까. 아무튼 어디 들어가서 좀 쉬어야 할 텐데.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="101">
+    <se lang="ru" variant_id="0">Куда надо-то тебе?</se>
+    <se lang="lt" variant_id="1">대체 어디로 갈 작정인가?</se>
+    <weight variant_id="1">0,277778</weight>
+  </para>
+  <para id="102">
+    <se lang="ru" variant_id="0">– Мне все одно.</se>
+    <se lang="lt" variant_id="1">- 어디든 좋습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="103">
+    <se lang="ru" variant_id="0">Подивился Семен.</se>
+    <se lang="lt" variant_id="1">세몬은 저으기 놀랐다.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="104">
+    <se lang="ru" variant_id="0">Не похож на озорника и на речах мягок, а не сказывает про себя.</se>
+    <se lang="lt" variant_id="1">청년은 불량해 보이지도 않았고 말씨도 공손했지만 자신에 관해서는 아무것도 말하려 들지 않았다.</se>
+    <weight variant_id="1">-0,024</weight>
+  </para>
+  <para id="105">
+    <se lang="ru" variant_id="0">И думает Семен: «Мало ли какие дела бывают», – и говорит человеку:</se>
+    <se lang="lt" variant_id="1">세몬은 생각했다. "누구에게나 말못할 사정은 있는 법이니까." 그는 다시 입을 열었다.</se>
+    <weight variant_id="1">0,283019</weight>
+  </para>
+  <para id="106">
+    <se lang="ru" variant_id="0">– Что ж, так пойдем ко мне в дом, хоть отойдешь мало-мальски.</se>
+    <se lang="lt" variant_id="1">- 그렇다면 어떤가, 나하고 같이 우리 집으로 가는게? 몸이 녹으면 정신이 좀 나겠지.</se>
+    <weight variant_id="1">0,106452</weight>
+  </para>
+  <para id="107">
+    <se lang="ru" variant_id="0">Идет Семен, не отстает от него странник, рядом идет.</se>
+    <se lang="lt" variant_id="1">세몬은 집을 향해 걷기 시작했다. 낯선 젊은이도 뒤떨어지지 않고 곧잘 따라왔다.</se>
+    <weight variant_id="1">0,0130435</weight>
+  </para>
+  <para id="108">
+    <se lang="ru" variant_id="0">Поднялся ветер, прохватывает Семена под рубаху, и стал с него сходить хмель, и прозябать стал.</se>
+    <se lang="lt" variant_id="1">차가운 바람이 세몬의 루바시카자락을 파고들었다. 술이 깨면서 오싹오싹 한기가 느껴졌다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="109">
+    <se lang="ru" variant_id="0">Идет он, носом посапывает, запахивает на себе куртушку бабью и думает:</se>
+    <se lang="lt" variant_id="1">그는 연신 코를 훌쩍거렸다. 마누라에게서 빌려 입은 무명 속옷 앞자락을 바싹 당겨 여미면서 그는 생각했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="110">
+    <se lang="ru" variant_id="0">«Вот-те и шуба, пошел за шубой, а без кафтана приду да еще голого с собой приведу. Не похвалит Матрена!»</se>
+    <se lang="lt" variant_id="1">"털가죽 외투가 대체 어떻게 돼 버린 거야? 모피 외투를 장만하러 나섰다가 입고 있던 것마저 벗어던진 꼴이 됐으니. 거기다 벌거숭이 사내까지 달고 들어가면 마트료나가 펄펄 뛸게 뻔한데."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="111">
+    <se lang="ru" variant_id="0">И как подумает об Матрене, скучно станет Семену.</se>
+    <se lang="lt" variant_id="1">아내 생각을 하자 세몬의 마음은 우울해졌다.</se>
+    <weight variant_id="1">0,165517</weight>
+  </para>
+  <para id="112">
+    <se lang="ru" variant_id="0">А как поглядит на странника, вспомнит, как он взглянул на него за часовней, так взыграет в нем сердце.</se>
+    <se lang="lt" variant_id="1">그러나 옆에서 걷고 있는 젊은이를 돌아보자 교회 모퉁이에서 처음 발견했을 때 자신을 쳐다보던 그의 눈빛이 떠오르면서 마음이 다시 환하게 밝아왔다.</se>
+    <weight variant_id="1">-0,0580645</weight>
+  </para>
+  <para id="113">
+    <se lang="ru" variant_id="0">Убралась Семена жена рано.</se>
+    <se lang="lt" variant_id="1">세몬의 아내는 일찌감치 집안일을 끝냈다.</se>
+    <weight variant_id="1">-0,0125</weight>
+  </para>
+  <para id="114">
+    <se lang="ru" variant_id="0">Дров нарубила, воды принесла, ребят накормила, сама закусила и задумалась; задумалась, когда хлебы ставить: нынче или завтра?</se>
+    <se lang="lt" variant_id="1">장작을 쪼개고 물을 길어와서 아이들과 같이 저녁을 먹은 다음 그녀는 생각에 잡겼다. 오늘 저녁에 빵을 구울까, 내일로 미룰까.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="115">
+    <se lang="ru" variant_id="0">Краюшка большая осталась.</se>
+    <se lang="lt" variant_id="1">제법 큼직한 빵 한 조각이 아직 남아 있었다.</se>
+    <weight variant_id="1">-0,0136364</weight>
+  </para>
+  <para id="116">
+    <se lang="ru" variant_id="0">«Если, думает, Семен там пообедает да много за ужином не съест, на завтра хватит хлеба».</se>
+    <se lang="lt" variant_id="1">"세몬이 밖에서 식사를 하고 들어온다면 밤참은 그리 많이 먹지 않을거야. 그럼 내일 아침까진 이걸로 충분할 것 같은데."</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="117">
+    <se lang="ru" variant_id="0">Повертела, повертела Матрена краюху, думает: </se>
+    <se lang="lt" variant_id="1">그녀는 빵조각을 만지작거리면서 궁리했다. </se>
+    <weight variant_id="1">0,0486486</weight>
+  </para>
+  <para id="118">
+    <se lang="ru" variant_id="0">«Не стану нынче хлебов ставить.</se>
+    <se lang="lt" variant_id="1">"아무래도 빵 굽는 건 내일로 미뤄야겠어.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="119">
+    <se lang="ru" variant_id="0">Муки и то всего на одни хлебы осталось. Еще до пятницы протянем».</se>
+    <se lang="lt" variant_id="1">밀가루도 얼마 남지 않았는데, 있는 것만으로 금요일까지 버텨야지."</se>
+    <weight variant_id="1">0,05</weight>
+  </para>
+  <para id="120">
+    <se lang="ru" variant_id="0">Убрала Матрена хлеб и села у стола заплату на мужнину рубаху нашить.</se>
+    <se lang="lt" variant_id="1">마트료나는 빵 굽는 일을 그만두기로 하고 남편의 옷을 깁기 시작했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="121">
+    <se lang="ru" variant_id="0">Шьет и думает Матрена про мужа, как он будет овчины на шубу покупать.</se>
+    <se lang="lt" variant_id="1">바느질을 하면서 그녀는 남편이 어떤 가죽을 사올까 생각했다.</se>
+    <weight variant_id="1">0,185714</weight>
+  </para>
+  <para id="122">
+    <se lang="ru" variant_id="0">Не обманул бы его овчинник.</se>
+    <se lang="lt" variant_id="1">설마 가죽 장수에게 속지는 않았겠지.</se>
+    <weight variant_id="1">0,276</weight>
+  </para>
+  <para id="123">
+    <se lang="ru" variant_id="0">А то прост уж очень мой-то.</se>
+    <se lang="lt" variant_id="1">그이는 사람이 너무 좋아서 탈이라니까.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="124">
+    <se lang="ru" variant_id="0">Сам никого не обманет, а его малое дитя проведет.</se>
+    <se lang="lt" variant_id="1">자기는 꿈에도 남을 속일 줄 모르면서 동네 코흘리개한테도 맥없이 속아넘어가거든.</se>
+    <weight variant_id="1">-0,03</weight>
+  </para>
+  <para id="125">
+    <se lang="ru" variant_id="0">Восемь рублей деньги не малые.</se>
+    <se lang="lt" variant_id="1">8 루블이라면 적은 액수가 아닌데.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="126">
+    <se lang="ru" variant_id="0">Можно хорошую шубу собрать.</se>
+    <se lang="lt" variant_id="1">정도면 좋은 모피 외투를 장막 할 수 있고말고.</se>
+    <weight variant_id="1">0,259091</weight>
+  </para>
+  <para id="127">
+    <se lang="ru" variant_id="0">Хоть не дубленая, а все шуба.</se>
+    <se lang="lt" variant_id="1">무두질한 최고급 가죽은 아니더라도 어쨌든 모피 외투인 건 분명해.</se>
+    <weight variant_id="1">-0,00625</weight>
+  </para>
+  <para id="128">
+    <se lang="ru" variant_id="0">Прошлую зиму как бились без шубы!</se>
+    <se lang="lt" variant_id="1">모피 외투 하나 없이 겨울을 나려니 작년엔 고생이 이만저만이 아니었지</se>
+    <weight variant_id="1">-0,03125</weight>
+  </para>
+  <para id="129">
+    <se lang="ru" variant_id="0">Ни на речку выйти, ни куда.</se>
+    <se lang="lt" variant_id="1">냇가엘 나갈 수 가 있었나, 들엘 나갈 수가 있나. </se>
+    <weight variant_id="1">0,14</weight>
+  </para>
+  <para id="130">
+    <se lang="ru" variant_id="0">А то вот пошел со двора, все на себя падел, мне и одеть нечего.</se>
+    <se lang="lt" variant_id="1">오늘만 해도 그래 옷이란 옷은 모조리 껴입고 나가 버리니 나는 걸칠 것이 없다구.</se>
+    <weight variant_id="1">0,0535714</weight>
+  </para>
+  <para id="131">
+    <se lang="ru" variant_id="0">Не рано пошел.</se>
+    <se lang="lt" variant_id="1">그런데 이이가 너무 늦는 거 아냐?</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="132">
+    <se lang="ru" variant_id="0">Пора бы ему.</se>
+    <se lang="lt" variant_id="1">돌아올 때가 지났는데.</se>
+    <weight variant_id="1">0,245455</weight>
+  </para>
+  <para id="133">
+    <se lang="ru" variant_id="0">Уж не загулял ли соколик-то мой?</se>
+    <se lang="lt" variant_id="1">혹시 어디서 술타령을 벌이고 있는 건 아닐까?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="134">
+    <se lang="ru" variant_id="0">Только подумала Матрена, заскрипели ступеньки на крыльце, кто-то вошел.</se>
+    <se lang="lt" variant_id="1">마트료나가 이런 생각을 하고 있을 때 마침 현관 계단이 삐그덕거리면서 누군가 들어오는 소리가 났다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="135">
+    <se lang="ru" variant_id="0">Воткнула Матрена иголку, вышла в сени.</se>
+    <se lang="lt" variant_id="1">바늘을 일감에 꽂아놓고 마트료나가 밖으로 나가 보니 사내 둘이 안으로 들어서고 있었다.</se>
+    <weight variant_id="1">-0,128571</weight>
+  </para>
+  <para id="136">
+    <se lang="ru" variant_id="0">Видит – вошли двое: Семен и с ним мужик какой-то без шапки и в валенках.</se>
+    <se lang="lt" variant_id="1">세몬 옆에 서 있는 낯선 청년은 맨머리에 털장화를 신고 잇었다.</se>
+    <weight variant_id="1">-0,118182</weight>
+  </para>
+  <para id="137">
+    <se lang="ru" variant_id="0">Сразу почуяла Матрена дух винный от мужа.</se>
+    <se lang="lt" variant_id="1">그녀는 당장에 남편이 술을 마셨다는 것을 알아차렸다.</se>
+    <weight variant_id="1">-0,15</weight>
+  </para>
+  <para id="138">
+    <se lang="ru" variant_id="0">«Ну, думает, так и есть загулял».</se>
+    <se lang="lt" variant_id="1">"내 이럴 줄 알았다니까."</se>
+    <weight variant_id="1">0,02</weight>
+  </para>
+  <para id="139">
+    <se lang="ru" variant_id="0">Да как увидела, что он без кафтана, в куртушке в одной и не несет ничего, а молчит, ужимается, оборвалось у Матрены сердце.</se>
+    <se lang="lt" variant_id="1">다시 보니 남편은 외투도 입지 않은 속옷 바람에 빈손으로 우두커니 서 있었다. 마트료나는 화가 머리끝까지 치밀어올랐다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="140">
+    <se lang="ru" variant_id="0">«Пропил, думает, деньги, загулял с каким-нибудь непутевым, да и его еще с собой привел».</se>
+    <se lang="lt" variant_id="1">"그 돈으로 몽땅 마셔 버린 게 틀림없어. 생판 모르는 건달하고 어울려 진탕 퍼마시고는 그것도 모자라 집에까지 끌고 왔군."</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="141">
+    <se lang="ru" variant_id="0">Пропустила их Матрена в избу, сама вошла, видит – человек чужой, молодой, худощавый, кафтан на нем ихний.</se>
+    <se lang="lt" variant_id="1">두 사람 뒤를 따라 집 안으로 들어서던 마트료나는 낯선 사내가 입고 있는 외투가 자기네 것임을 알아보았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="142">
+    <se lang="ru" variant_id="0">Рубахи не видать под кафтаном, шапки нет.</se>
+    <se lang="lt" variant_id="1">젊은이는 외투 밑에 내의를 입은 것 같지도 않았고 모자도 쓰고 있지 않았다.</se>
+    <weight variant_id="1">-0,05</weight>
+  </para>
+  <para id="143">
+    <se lang="ru" variant_id="0">Как вошел, так стал, не шевелится и глаз не поднимает.</se>
+    <se lang="lt" variant_id="1">그는 방 안에 들어와서도 잠자코 한 자리에 선 채 움직이지도 않고 고개를 들지도 않았다.</se>
+    <weight variant_id="1">-0,065625</weight>
+  </para>
+  <para id="144">
+    <se lang="ru" variant_id="0">И думает Матрена: недобрый человек – боится.</se>
+    <se lang="lt" variant_id="1">뭔가 나쁜 짓을 저질러 놓고 겁을 집어먹고 있는 게 틀림없어.</se>
+    <weight variant_id="1">0,0681818</weight>
+  </para>
+  <para id="145">
+    <se lang="ru" variant_id="0">Насупилась Матрена, отошла к печи, глядит, что от них будет.</se>
+    <se lang="lt" variant_id="1">마트료나는 이마를 찌푸린 채 벽난로 쪽으로 멀찌감치 떨어져 서서 두 사람이 하는 모양을 지켜보았다.</se>
+    <weight variant_id="1">-0,138889</weight>
+  </para>
+  <para id="146">
+    <se lang="ru" variant_id="0">Снял Семен шапку, сел на лавку, как добрый.</se>
+    <se lang="lt" variant_id="1">세몬은 모자를 벗고 태연하게 의자에 걸터앉았다.</se>
+    <weight variant_id="1">0,1375</weight>
+  </para>
+  <para id="147">
+    <se lang="ru" variant_id="0">– Что ж, – говорит, – Матрена, собери ужинать, что ли! </se>
+    <se lang="lt" variant_id="1">이봐, 왜 그러고 있어? 식사 준비를 해야지. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="148">
+    <se lang="ru" variant_id="0">Пробурчала что-то себе под нос Матрена.</se>
+    <se lang="lt" variant_id="1">마트료나는 입 속으로 뭔가 투덜거릴 뿐 벽난로 옆에서 꿈쩍도 하지 않았다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="149">
+    <se lang="ru" variant_id="0">Как стала у печи, не шевельнется: то на одного, то на другого посмотрит и только головой покачивает.</se>
+    <se lang="lt" variant_id="1">그녀는 두사 람을 번갈아 쳐다보며 연신 고개를 젓고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="150">
+    <se lang="ru" variant_id="0">Видит Семен, что баба не в себе, да делать нечего: как будто не примечает, берет за руку странника.</se>
+    <se lang="lt" variant_id="1">세몬은 그녀가 몹시 화가 나 있다는 것을 알았다. 그래도 할 수 없다는 듯이 그는 낯선 사내의 손을 잡으면서 말했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="151">
+    <se lang="ru" variant_id="0">– Садись, – говорит, – брат, ужинать станем.</se>
+    <se lang="lt" variant_id="1">- 자, 앉으라구. 저녁을 먹어야지.</se>
+    <weight variant_id="1">-0,0333333</weight>
+  </para>
+  <para id="152">
+    <se lang="ru" variant_id="0">Сел странник на лавку.</se>
+    <se lang="lt" variant_id="1">낯선 사내가 의자에 앉았다.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="153">
+    <se lang="ru" variant_id="0">– Что же, али не варила?</se>
+    <se lang="lt" variant_id="1">- 왜 그래 저녁 준비를 하지 않은 거야?</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="154">
+    <se lang="ru" variant_id="0">Взяло зло Матрену.</se>
+    <se lang="lt" variant_id="1">마트료나는 더 이상 화를 참지 못하고 입을 열었다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="155">
+    <se lang="ru" variant_id="0">– Варила, да не про тебя.</se>
+    <se lang="lt" variant_id="1">- 왜 안 해요. 하긴 했지만 당신 몫은 없어요.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="156">
+    <se lang="ru" variant_id="0">Ты и ум, я вижу, пропил.</se>
+    <se lang="lt" variant_id="1">보아 하니 당신은 염치마저 홀랑 마셔버린 모양이군요.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="157">
+    <se lang="ru" variant_id="0">Пошел за шубой, а без кафтана пришел, да еще какого-то бродягу голого с собой привел.</se>
+    <se lang="lt" variant_id="1">모피 사러 간다더니 모피는커녕 입고 나간 외투마저 남 벗어주고, 그것도 모자라 저 건달을 집에까지 꿰어차고 들어오다니.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="158">
+    <se lang="ru" variant_id="0">Нет у меня про вас, пьяниц, ужина.</se>
+    <se lang="lt" variant_id="1">당신네 주정뱅이들한테 줄 저녁은 없단 말이에요.</se>
+    <weight variant_id="1">-0,0571429</weight>
+  </para>
+  <para id="159">
+    <se lang="ru" variant_id="0">– Будет, Матрена, что без толку-то языком стрекотать! </se>
+    <se lang="lt" variant_id="1">- 마트료나, 사정도 모르면서 함부로 떠들어 댈 거야?</se>
+    <weight variant_id="1">0,264286</weight>
+  </para>
+  <para id="160">
+    <se lang="ru" variant_id="0">Ты спроси прежде, какой человек.</se>
+    <se lang="lt" variant_id="1">- 어떻게 된 일인지 들어보고 나서 지껄여야지.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="161">
+    <se lang="ru" variant_id="0">Полез Семен в кафтан, вынул бумажку, развернул.</se>
+    <se lang="lt" variant_id="1">세몬은 속주머니를 더듬어 지폐를 꺼냈다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="162">
+    <se lang="ru" variant_id="0">– Деньги – вот они, а Трифонов не отдал, завтра посудился.</se>
+    <se lang="lt" variant_id="1">- 자, 돈은 여기 있다구. 도리포노프가 꾸어간 건 못 받았지만 내일은 꼭 주겠다고 약속했어.</se>
+    <weight variant_id="1">-0,103448</weight>
+  </para>
+  <para id="163">
+    <se lang="ru" variant_id="0">Еще пуще взяло зло Матрену: шубы не купил, а последний кафтан на какого-то голого надел да к себе привел.</se>
+    <se lang="lt" variant_id="1">그래도 마트료나는 화가 가라앉지 않았다. 양가죽도 못 산 터에 단벌 외투는 낯선 벌거숭이 사내한테 벗어줘 버리고, 거기다 그 사내를 집에까지 끌고 오다니.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="164">
+    <se lang="ru" variant_id="0">Схватила со стола бумажку, понесла прятать, сама говорит:</se>
+    <se lang="lt" variant_id="1">탁자 위의 돈을 집어 간수하면서 마트료나는 말했다. </se>
+    <weight variant_id="1">-0,0685714</weight>
+  </para>
+  <para id="165">
+    <se lang="ru" variant_id="0">– Нет у меня ужина.</se>
+    <se lang="lt" variant_id="1">- 아무튼 저녁은 없어요.</se>
+    <weight variant_id="1">0,257143</weight>
+  </para>
+  <para id="166">
+    <se lang="ru" variant_id="0">Всех пьяниц голых не накормишь.</se>
+    <se lang="lt" variant_id="1">저런 벌거숭이 주정뱅이들을 일일이 아랑곳하다.</se>
+    <weight variant_id="1">0,04</weight>
+  </para>
+  <para id="167">
+    <se lang="ru" variant_id="0">– Эх, Матрена, подержи язык-то.</se>
+    <se lang="lt" variant_id="1">- 간 이봐, 마트료나. 말 좀 삼가라니까.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="168">
+    <se lang="ru" variant_id="0">Прежде послушай, что говорят – наслушаешься ума от пьяного дурака.</se>
+    <se lang="lt" variant_id="1">우선 내 말을 들어보라구. - 당신 같은 주정꾼의 말은 듣고 자시고 할 것도 없어요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="169">
+    <se lang="ru" variant_id="0">Недаром не хотела за тебя, пьяницу, замуж идти.</se>
+    <se lang="lt" variant_id="1">정말이지 난 당신 같은 주정뱅이와 결혼하고 싶지 않았다구요.</se>
+    <weight variant_id="1">0,0652174</weight>
+  </para>
+  <para id="170">
+    <se lang="ru" variant_id="0">Матушка мне холсты отдала – ты пропил; пошел шубу купить – пропил.</se>
+    <se lang="lt" variant_id="1">어머니가 주신 옷감들도 모조리 술값으로 날려 버리더니 이번엔 또 양가죽 살 돈마저 목구멍에 홀랑 들이붓고 들어왔군요.</se>
+    <weight variant_id="1">-0,1125</weight>
+  </para>
+  <para id="171">
+    <se lang="ru" variant_id="0">Хочет Семен растолковать жене, что пропил он только двадцать копеек, хочет сказать, где он человека нашел, – не дает ему Матрена слова вставить: откуда что берется, по два слова вдруг говорит.</se>
+    <se lang="lt" variant_id="1">세몬은 자기가 마신 것은 고작 20 카페아카 뿐이라는 것과, 청년을 데려오게 된 사정을 아내가 알아듣도록 설명하려 했다. 그러나 마트료나는 그에게 말할 기회를 주지 않았다. 어디서 그렇게 좔좔 쏟아져 나오는지 한꺼번에 두 마디 세 마디씩 지껄여 대니 세몬은 끼여들 겨를이 없었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="172">
+    <se lang="ru" variant_id="0">Что десять лет тому назад было, и то все помянула. Говорила, говорила Матрена, подскочила к Семену, схватила его за рукав.</se>
+    <se lang="lt" variant_id="1">그녀는 10 년도 더 된 옛날 일까지 들추어가며 사정없이 퍼부어 대다가 갑자기 세몬에게 달려들어 옷소매를 움켜잡았다.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="173">
+    <se lang="ru" variant_id="0">– Давай поддевку-то мою.</se>
+    <se lang="lt" variant_id="1">- 여러 말 말고 내 옷이나 내놔요!</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="174">
+    <se lang="ru" variant_id="0">А то одна осталась, и ту с меня снял да на себя напер.</se>
+    <se lang="lt" variant_id="1">하나밖에 없는 옷을 빼앗아 입고 뻔뻔하기도 하지! 썩 벗어 달라니까요!</se>
+    <weight variant_id="1">0,183871</weight>
+  </para>
+  <para id="175">
+    <se lang="ru" variant_id="0">Давай сюда, конопатый пес, пострел тебя расшиби!Стал снимать с себя Семен куцавейку, рукав вывернул, дернула баба – затрещала в швах куцавейка.</se>
+    <se lang="lt" variant_id="1">이런 못난이, 팔푼이 같으니라고! 차라리 어디 가서 콱 죽어 버리는 게 낫지. 세몬이 옷을 벗으려는데 마트료나가 달려들어 잡아당기는 바람에 솔기가 부드득 뜯어졌다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="176">
+    <se lang="ru" variant_id="0">Схватила Матрена поддевку, на голову накинула и взялась за дверь.</se>
+    <se lang="lt" variant_id="1">마트료나는 옷을 나꿔 채 입고 문께로 달려갔다.</se>
+    <weight variant_id="1">0,0483871</weight>
+  </para>
+  <para id="177">
+    <se lang="ru" variant_id="0">Хотела уйти, да остановилась: и сердце в ней расходилось – хочется ей зло сорвать и узнать хочется, какой-такой человек.</se>
+    <se lang="lt" variant_id="1">그대로 나가 버리려고 하다가 그녀는 문득 걸음을 멈췄다. 속은 상하지만 그래도 이 사내가 누군지는 밝혀내야겠다고 생각했던 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="178">
+    <se lang="ru" variant_id="0">Остановилась Матрена и говорит:</se>
+    <se lang="lt" variant_id="1">마트료나는 멈춰 서서 입을 열었다.</se>
+    <weight variant_id="1">0,165</weight>
+  </para>
+  <para id="179">
+    <se lang="ru" variant_id="0">– Кабы добрый человек, так голый бы не был, а то на нем и рубахи-то нет.</se>
+    <se lang="lt" variant_id="1">- 온전한 사람이라면 저렇게 맨발로 돌아다닐 리가 없지. 게다가 저 사람은 내의조차 입지 않았다구요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="180">
+    <se lang="ru" variant_id="0">Кабы за добрыми делами пошел, ты бы сказал, откуда привел щеголя такого.</se>
+    <se lang="lt" variant_id="1">당신이 나쁜짓을 하지 않았다면 어디서 저 사람을 끌고 왔는지 왜 말을 못하는 거죠?</se>
+    <weight variant_id="1">0,295161</weight>
+  </para>
+  <para id="181">
+    <se lang="ru" variant_id="0">– Да я сказываю тебе: иду, у часовни сидит этот раздемши, застыл совсем.</se>
+    <se lang="lt" variant_id="1">- 아까부터 그 말을 하려던 참이야. 집으로 돌아오는 길에 이 사람이 교회 담 밑에 쭈그리고 앉아 있는 걸 우연히 보게 되었단 말이오. 꽁꽁 얼어붙은 알몸으로 말이야.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="182">
+    <se lang="ru" variant_id="0">Не лето ведь, нагишом-то.</se>
+    <se lang="lt" variant_id="1">글세, 여름도 다 갔는데 벌거숭이라니!</se>
+    <weight variant_id="1">0,286364</weight>
+  </para>
+  <para id="183">
+    <se lang="ru" variant_id="0">Нанес меня на него бог, а то бы пропасть. Ну, как быть?</se>
+    <se lang="lt" variant_id="1">마침 하늘이 도와서 내가 그리로 지나가게 됐으니 망정이지, 하마터면 그대로 얼어죽을 뻔했다니깐.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="184">
+    <se lang="ru" variant_id="0">Мало ли какие дела бывают!</se>
+    <se lang="lt" variant_id="1">살아가노라면 언제 무슨 일을 당할지 누가 알겠소!</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="185">
+    <se lang="ru" variant_id="0">Взял, одел и привел сюда.</se>
+    <se lang="lt" variant_id="1">그래 내가 외투를 입혀서 데리고 왔지.</se>
+    <weight variant_id="1">0,177273</weight>
+  </para>
+  <para id="186">
+    <se lang="ru" variant_id="0">Утиши ты свое сердце. Грех, Матрена.</se>
+    <se lang="lt" variant_id="1">마트료나 당신도 마음을 가라앉히고 이 사람 처지를 생각해 보구려.</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="187">
+    <se lang="ru" variant_id="0">Помирать будем.</se>
+    <se lang="lt" variant_id="1">사람은 누구든 한 번은 죽는 거니까.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="188">
+    <se lang="ru" variant_id="0">Хотела Матрена изругаться, да поглядела на странника и замолчала.</se>
+    <se lang="lt" variant_id="1">마트료나는 뭔가 좀더 심한 말을 퍼부어 주고 싶었으나 낯선 젊은이를 쳐다보자 왠지 말문이 막혔다.</se>
+    <weight variant_id="1">-0,00775862</weight>
+  </para>
+  <para id="189">
+    <se lang="ru" variant_id="0">Сидит странник – не шевельнется, как сел на краю лавки.</se>
+    <se lang="lt" variant_id="1">청년은 걸상 끄트머리에 죽은 듯이 꼼짝도 하지 않고 앉아 있었다.</se>
+    <weight variant_id="1">0,0777778</weight>
+  </para>
+  <para id="190">
+    <se lang="ru" variant_id="0">Руки сложены на коленях, голова на грудь опущена, глаз не раскрывает и все морщится, как будто душит его что.</se>
+    <se lang="lt" variant_id="1">두 손은 무릎 위에 올려놓고 가슴팍에 고개를 떨군 채, 눈을 드는 일도 없이 마치 무엇에 목을 졸리고 있기라도 한 것처럼 얼굴을 잔뜩 찌푸리고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="191">
+    <se lang="ru" variant_id="0">Замолчала Матрена. Семен и говорит:</se>
+    <se lang="lt" variant_id="1">마트료나가 잠자코 있자 세몬이 다시 입을 열었다.</se>
+    <weight variant_id="1">0,282353</weight>
+  </para>
+  <para id="192">
+    <se lang="ru" variant_id="0">– Матрена, али в тебе бога нет?!</se>
+    <se lang="lt" variant_id="1">- 마트료나, 당신에겐 하느님도 없소?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="193">
+    <se lang="ru" variant_id="0">Услыхала это слово Матрена, взглянула еще на странника, и вдруг сошло в ней сердце.</se>
+    <se lang="lt" variant_id="1">마트료나는 그 말을 듣고 다시 한 번 낯선 청년을 바라보았다. 그러자 부글거리던 노여움이 홀연히 가라앉았다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="194">
+    <se lang="ru" variant_id="0">Отошла она от двери, подошла к печному углу, достала ужинать.</se>
+    <se lang="lt" variant_id="1">그녀는 돌아서서 방구석에 있는 난로 곁으로 걸어가 저녁상을 차리기 시작했다.</se>
+    <weight variant_id="1">0,158333</weight>
+  </para>
+  <para id="195">
+    <se lang="ru" variant_id="0">Поставила чашку на стол, налила квасу, выложила краюшку последнюю.</se>
+    <se lang="lt" variant_id="1">잔을 탁자 위에 놓고 크바스를 따르고 남은 빵을 내놓았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="196">
+    <se lang="ru" variant_id="0">Подала нож и ложки.</se>
+    <se lang="lt" variant_id="1">나이프와 스푼을 놓으면서 그녀가 말했다.</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="197">
+    <se lang="ru" variant_id="0">– Хлебайте, что ль, – говорит.</se>
+    <se lang="lt" variant_id="1">- 와서 식사들 하세요.</se>
+    <weight variant_id="1">0,228571</weight>
+  </para>
+  <para id="198">
+    <se lang="ru" variant_id="0">Подвинул Семен странника.</se>
+    <se lang="lt" variant_id="1">세몬은 낯선 청년을 식탁으로 데리고 갔다.</se>
+    <weight variant_id="1">0,2375</weight>
+  </para>
+  <para id="199">
+    <se lang="ru" variant_id="0">– Пролезай, – говорит, – молодец.</se>
+    <se lang="lt" variant_id="1">- 앉으라구, 젊은이.</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="200">
+    <se lang="ru" variant_id="0">Нарезал Семен хлеба, накрошил, и стали ужинать.</se>
+    <se lang="lt" variant_id="1">세몬이 빵조각을 잘게 썰었다. 두 사람은 먹기 시작했다.</se>
+    <weight variant_id="1">-0,0532258</weight>
+  </para>
+  <para id="201">
+    <se lang="ru" variant_id="0">А Матрена села об угол стола, подперлась рукой и глядит на странника.</se>
+    <se lang="lt" variant_id="1">마트료나는 식탁 끝에 앉아 한 손으로 턱을 괴고 낯선 젊은이를 바라보았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="202">
+    <se lang="ru" variant_id="0">И жалко стало Матрене странника, и полюбила она его.</se>
+    <se lang="lt" variant_id="1">그러자 문득 젊은이가 가여워져서 돌보아 보고 싶다는 생각이 들었다.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="203">
+    <se lang="ru" variant_id="0">И вдруг повеселел странник, перестал морщиться, поднял глаза на Матрену и улыбнулся.</se>
+    <se lang="lt" variant_id="1">그 순간 청년이 갑자기 밝은 표정을 짓더니 찌푸렸던 이마를 펴고 눈을 들어 그녀를 쳐다보며 싱긋 웃었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="204">
+    <se lang="ru" variant_id="0">Поужинали; убрала баба и стала спрашивать странника:</se>
+    <se lang="lt" variant_id="1">식사가 끝나자 마트료나는 그릇들을 치우고 낯선 청년에게 물었다.</se>
+    <weight variant_id="1">-0,111111</weight>
+  </para>
+  <para id="205">
+    <se lang="ru" variant_id="0">– Да ты чей будешь?</se>
+    <se lang="lt" variant_id="1">- 당신은 어디서 왔죠?</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="206">
+    <se lang="ru" variant_id="0">– Не здешний я.</se>
+    <se lang="lt" variant_id="1">- 저는 이 고장 사람이 아닙니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="207">
+    <se lang="ru" variant_id="0">– Да как же ты на дорогу-то попал?</se>
+    <se lang="lt" variant_id="1">- 그런데 어째서 그런 곳에 있었나요?</se>
+    <weight variant_id="1">0,27907</weight>
+  </para>
+  <para id="208">
+    <se lang="ru" variant_id="0">– Нельзя мне сказать.</se>
+    <se lang="lt" variant_id="1">- 그건 말할 수 없습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="209">
+    <se lang="ru" variant_id="0">– Кто ж тебя обобрал?</se>
+    <se lang="lt" variant_id="1">- 당신 옷은 누가 벗겨간 거죠?</se>
+    <weight variant_id="1">0,264706</weight>
+  </para>
+  <para id="210">
+    <se lang="ru" variant_id="0">– Меня бог наказал.</se>
+    <se lang="lt" variant_id="1">- 하느님께서 벌을 내리신 겁니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="211">
+    <se lang="ru" variant_id="0">– Так голый и лежал?</se>
+    <se lang="lt" variant_id="1">- 그래서 벌거벗고 쓰러져 있었단 말이에요?</se>
+    <weight variant_id="1">0,133333</weight>
+  </para>
+  <para id="212">
+    <se lang="ru" variant_id="0">– Так и лежал нагой, замерзал.</se>
+    <se lang="lt" variant_id="1">- 네, 벌거벗은 채 쓰러져 거의 얼어죽을 뻔했죠.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="213">
+    <se lang="ru" variant_id="0">Увидал меня Семен, пожалел, снял с себя кафтан, на меня надел и велел сюда прийти.</se>
+    <se lang="lt" variant_id="1">그런데 댁의 주인께서 저를 발견하고 가엾게 여겨 외투를 벗어서 입혀주고는 여기까지 데리고 온 겁니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="214">
+    <se lang="ru" variant_id="0">А здесь ты меня накормила, напоила, пожалела.</se>
+    <se lang="lt" variant_id="1">여기 오자 이번엔 아주머니께서 절 불쌍하게 생각하시고 먹을 것과 마실 것을 주셨죠.</se>
+    <weight variant_id="1">-0,0166667</weight>
+  </para>
+  <para id="215">
+    <se lang="ru" variant_id="0">Спасет вас господь!</se>
+    <se lang="lt" variant_id="1">두 분께는 하느님의 은총이 내릴 겁니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="216">
+    <se lang="ru" variant_id="0">Встала Матрена, взяла с окна рубаху старую Семенову, ту самую, что платила, подала страннику; нашла еще портки, подала.</se>
+    <se lang="lt" variant_id="1">마트료나는 자리에서 일어나 방금 기워놓은 세몬의 낡은 내의를 창가에서 집어다 젊은이에게 건네주었다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="217">
+    <se lang="ru" variant_id="0">– На вот, я вижу, у тебя и рубахи-то нет.</se>
+    <se lang="lt" variant_id="1">- 자, 이거라도 입어요.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="218">
+    <se lang="ru" variant_id="0">Оденься да ложись где полюбится – на хоры али на печь.</se>
+    <se lang="lt" variant_id="1">그리고 어디든 마음에 드는 자리에 누워서 자요. 침대 위든 벽난로 옆이든.</se>
+    <weight variant_id="1">-0,0276316</weight>
+  </para>
+  <para id="219">
+    <se lang="ru" variant_id="0">Снял странник кафтан, одел рубаху и портки и лег на хоры.</se>
+    <se lang="lt" variant_id="1">낯선 젊은이는 외투를 벗고 내의를 입은 다음 침대에 드러누웠다.</se>
+    <weight variant_id="1">0,188571</weight>
+  </para>
+  <para id="220">
+    <se lang="ru" variant_id="0">Потушила Матрена свет, взяла кафтан и полезла к мужу.</se>
+    <se lang="lt" variant_id="1">마트료나는 불을 끄고 외투를 집어 남편 있는 데로 갔다.</se>
+    <weight variant_id="1">0,293333</weight>
+  </para>
+  <para id="221">
+    <se lang="ru" variant_id="0">Прикрылась Матрена концом кафтана, лежит и не спит, все странник ей с мыслей не идет.</se>
+    <se lang="lt" variant_id="1">외투 자락을 덮고 누었으나 좀처럼 잠이 오지 않았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="222">
+    <se lang="ru" variant_id="0">Как вспомнит, что он последнюю краюшку доел и на завтра нет хлеба, как вспомнит, что рубаху и портки отдала, так скучно ей станет; а вспомнит, как он улыбнулся, и взыграет в ней сердце.</se>
+    <se lang="lt" variant_id="1">낯선 젊은이의 일이 도무지 머리에서 떠나질 않았던 것이다. 젊은이가 마지막 남은 빵을 먹어 버리는 바람에 당장 내일 아침 먹을 것이 없다는 것과, 남편의 내의를 주어 버린 일을 생각하면 아쉬운 마음이 드는 것은 사실이었다. 그러나 젊은이가 싱긋 웃던 걸 생각하면 그녀의 마음은 어느새 환하게 밝아지는 것이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="223">
+    <se lang="ru" variant_id="0">Долго не спала Матрена и слышит – Семен тоже не спит, кафтан на себя тащит.</se>
+    <se lang="lt" variant_id="1">마트료나는 오래도록 잠을 이루지 못했다. 세몬도 잠이 오지 않는지 외투 자락을 한 번씩 끌어당기곤 했다.</se>
+    <weight variant_id="1">0,01875</weight>
+  </para>
+  <para id="224">
+    <se lang="ru" variant_id="0">– Хлеб-то последний поели, а я не ставила. На завтра, не знаю, как быть.</se>
+    <se lang="lt" variant_id="1">- 남은 빵을 다 먹어 버렸는데, 반죽을 해두지도 않았으니 내일은 어쩌죠?</se>
+    <weight variant_id="1">0,227027</weight>
+  </para>
+  <para id="225">
+    <se lang="ru" variant_id="0">Нечто у кумы Маланьи попрошу.</se>
+    <se lang="lt" variant_id="1">옆집 말라냐네더러 좀 꾸어 달랄까?</se>
+    <weight variant_id="1">0,103846</weight>
+  </para>
+  <para id="226">
+    <se lang="ru" variant_id="0">– Живы будем, сыты будем.</se>
+    <se lang="lt" variant_id="1">- 그러든지. 설마 산 입에 거미줄 치려고.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="227">
+    <se lang="ru" variant_id="0">Полежала баба, помолчала.</se>
+    <se lang="lt" variant_id="1">마트료나는 한동안 말없이 누워 있었다.</se>
+    <weight variant_id="1">-0,0545455</weight>
+  </para>
+  <para id="228">
+    <se lang="ru" variant_id="0">– А человек, видно, хороший, только что ж он не сказывает про себя.</se>
+    <se lang="lt" variant_id="1">- 그런데 저 사람 말이에요, 나쁜 사람 같지는 않은데 어째서 자기 얘기는 통 하려 들지 않는 걸까요?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="229">
+    <se lang="ru" variant_id="0">– Должно, нельзя.</se>
+    <se lang="lt" variant_id="1">- 뭔가 말못할 사정이 있겠지.</se>
+    <weight variant_id="1">0,12</weight>
+  </para>
+  <para id="230">
+    <se lang="ru" variant_id="0">– Сём!</se>
+    <se lang="lt" variant_id="1">- 세몬! </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="231">
+    <se lang="ru" variant_id="0">– А!</se>
+    <se lang="lt" variant_id="1">- 응?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="232">
+    <se lang="ru" variant_id="0">– Мы-то даем, да что ж нам никто не дает?</se>
+    <se lang="lt" variant_id="1">- 우리는 남을 도와주는데, 남들은 왜 아무도 우리를 도와주지 않는 거죠?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="233">
+    <se lang="ru" variant_id="0">Не знал Семен, что сказать.</se>
+    <se lang="lt" variant_id="1">세몬은 뭐라고 대답해야 할지 알 수 없었다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="234">
+    <se lang="ru" variant_id="0">Говорит: «Будет толковать-то».</se>
+    <se lang="lt" variant_id="1">거 쓸데없는 소리 작작 하라니까.</se>
+    <weight variant_id="1">0,268966</weight>
+  </para>
+  <para id="235">
+    <se lang="ru" variant_id="0">Повернулся и заснул.</se>
+    <se lang="lt" variant_id="1">그렇게 말하고 나서 그는 획 돌아누워 잠들어 버렸다.</se>
+    <weight variant_id="1">0,189474</weight>
+  </para>
+  <para id="236">
+    <se lang="ru" variant_id="0">Наутро проснулся Семен.</se>
+    <se lang="lt" variant_id="1">이튿날 세몬은 아침 일찍 잠이 깼다.</se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="237">
+    <se lang="ru" variant_id="0">Дети спят, жена пошла к соседям хлеба занимать.</se>
+    <se lang="lt" variant_id="1">아이들이 일어나기 전에 마트료나는 이웃집으로 빵을 꾸러 갔다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="238">
+    <se lang="ru" variant_id="0">Один вчерашний странник в старых портках и рубахе на лавке сидит, вверх смотрит.</se>
+    <se lang="lt" variant_id="1">어제 데리고 온 낯선 청년은 낡은 내의를 입은 채 걸상에 앉아 천장을 바라보고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="239">
+    <se lang="ru" variant_id="0">И лицо у него против вчерашнего светлее.</se>
+    <se lang="lt" variant_id="1">그의 얼굴은 어제보다 한결 밝아 보였다.</se>
+    <weight variant_id="1">0,225</weight>
+  </para>
+  <para id="240">
+    <se lang="ru" variant_id="0">– Чего ж, милая голова: брюхо хлеба просит, а голое тело одежи. Кормиться надо.</se>
+    <se lang="lt" variant_id="1">- 어떤가, 젊은이! 배는 빵을 원하고 벗은 몸뚱이는 옷을 원하니 뭔가 벌이를 해야 하지 않겠나?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="241">
+    <se lang="ru" variant_id="0">Что работать умеешь?</se>
+    <se lang="lt" variant_id="1">자네는 무슨 일을 할 줄 아나?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="242">
+    <se lang="ru" variant_id="0">Подивился Семен и говорит:</se>
+    <se lang="lt" variant_id="1">세몬은 깜짝 놀아서 말했다.</se>
+    <weight variant_id="1">-0,0394737</weight>
+  </para>
+  <para id="243">
+    <se lang="ru" variant_id="0">– Была бы охота.</se>
+    <se lang="lt" variant_id="1">- 뭐든 해보려는 마음만 있으면 되는 거야.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="244">
+    <se lang="ru" variant_id="0">Всему люди учатся.</se>
+    <se lang="lt" variant_id="1">배워서 못할 일은 없으니까.</se>
+    <weight variant_id="1">0,211765</weight>
+  </para>
+  <para id="245">
+    <se lang="ru" variant_id="0">– Люди работают, и я работать буду.</se>
+    <se lang="lt" variant_id="1">- 다들 일을 하니 저도 뭐든 해보겠습니다.</se>
+    <weight variant_id="1">-0,0642857</weight>
+  </para>
+  <para id="246">
+    <se lang="ru" variant_id="0">– Тебя как звать?</se>
+    <se lang="lt" variant_id="1">- 그런데 자네 이름이 뭔가?</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="247">
+    <se lang="ru" variant_id="0">– Михаил.</se>
+    <se lang="lt" variant_id="1">- 미하일입니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="248">
+    <se lang="ru" variant_id="0">– Ну, Михайла, сказывать про себя не хочешь – твое дело, а кормиться надо.</se>
+    <se lang="lt" variant_id="1">- 그래, 미하일. 자네는 신상 이야기를 하고 싶지 않은 모양인데, 그런 건 아무래도 좋아. 꼭 알아야 할 이유는 없으니까. 하지만 아무튼 밥벌이는 해야 해.</se>
+    <weight variant_id="1">0,242308</weight>
+  </para>
+  <para id="249">
+    <se lang="ru" variant_id="0">Работать будешь, что прикажу, – кормить буду.</se>
+    <se lang="lt" variant_id="1">내가 시키는 대로 일을 해주면 밥은 먹여주겠네.</se>
+    <weight variant_id="1">0,0545455</weight>
+  </para>
+  <para id="250">
+    <se lang="ru" variant_id="0">– Спаси тебя господь, а я учиться буду.</se>
+    <se lang="lt" variant_id="1">- 고맙습니다. 뭐든 열심히 배우겠습니다.</se>
+    <weight variant_id="1">0,169565</weight>
+  </para>
+  <para id="251">
+    <se lang="ru" variant_id="0">Покажи, что делать.</se>
+    <se lang="lt" variant_id="1">가르쳐만 주십시오.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="252">
+    <se lang="ru" variant_id="0">Взял Семен пряжу, надел на пальцы и стал делать конец.</se>
+    <se lang="lt" variant_id="1">세몬은 실을 집어 손가락에 감아서 꼬기 시작했다.</se>
+    <weight variant_id="1">-0,0725806</weight>
+  </para>
+  <para id="253">
+    <se lang="ru" variant_id="0">– Дело не хитрое, гляди.</se>
+    <se lang="lt" variant_id="1">- 어려울 건 없어. 자, 보라구.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="254">
+    <se lang="ru" variant_id="0">Посмотрел Михаила, надел также на пальцы, тотчас перенял, сделал конец.</se>
+    <se lang="lt" variant_id="1">미하일은 잠시 들여다보더니 금방 배워서 따라 했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="255">
+    <se lang="ru" variant_id="0">Показал ему Семен, как наваривать.</se>
+    <se lang="lt" variant_id="1">세몬은 다시 꼰 실을 찌는 법을 가르쳤다.</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="256">
+    <se lang="ru" variant_id="0">Также сразу понял Михайла.</se>
+    <se lang="lt" variant_id="1">미하일은 이번에도 금방 배웠다.</se>
+    <weight variant_id="1">0,221053</weight>
+  </para>
+  <para id="257">
+    <se lang="ru" variant_id="0">Показал хозяин и как всучить щетинку и как тачать, и тоже сразу понял Михайла.</se>
+    <se lang="lt" variant_id="1">주인이 실을 꿰어 가죽 깁는 시범을 해 보이자 미하일은 이것도 이내 익혔다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="258">
+    <se lang="ru" variant_id="0">Какую ни покажет ему работу Семен, все сразу поймет, и с третьего дня стал работать, как будто век шил.</se>
+    <se lang="lt" variant_id="1">세몬이 무엇을 가르쳐도 미하일은 금방 터득하여 사흘이 지나자 거의 모든 작업 과정을 능숙하게 해낼 수 있게 되었다. 마치 이제까지 줄곧 구두를 꿰매어 온 사람 같았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="259">
+    <se lang="ru" variant_id="0">Работает без разгиба, ест мало; перемежится работа – молчит и все вверх глядит.</se>
+    <se lang="lt" variant_id="1">그는 부지런히 일하고 조금밖에 먹지 않았다. 그리고 한가할 때면 조용히 천장만 쳐다보았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="260">
+    <se lang="ru" variant_id="0">На улицу не ходит, не говорит лишнего, не шутит, не смеется.</se>
+    <se lang="lt" variant_id="1">밖으로 나가지도 않고, 농담을 하거나 웃는 법도 없었다.</se>
+    <weight variant_id="1">0,28125</weight>
+  </para>
+  <para id="261">
+    <se lang="ru" variant_id="0">Только и видели раз, как он улыбнулся в первый вечер, когда ему баба ужинать собрала.</se>
+    <se lang="lt" variant_id="1">미하일이 웃어보인건 처음 왔던 날 마트료나가 저녁을 준비했을 때뿐이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="262">
+    <se lang="ru" variant_id="0">День ко дню, неделя к неделе, вскружился и год.</se>
+    <se lang="lt" variant_id="1">하루가 지나고 1 주일이 지나고 1 년이 지났다.</se>
+    <weight variant_id="1">-0,0214286</weight>
+  </para>
+  <para id="263">
+    <se lang="ru" variant_id="0">Живет Михайла по-прежнему у Семена, работает.</se>
+    <se lang="lt" variant_id="1">미하일은 여전히 세몬의 집에 살면서 가게 일을 거들어 주고 있었다.</se>
+    <weight variant_id="1">0,19</weight>
+  </para>
+  <para id="264">
+    <se lang="ru" variant_id="0">И прошла про Семенова работника слава, что никто так чисто и крепко сапог не сошьет, как Семенов работник Михайла, и стали из округи к Семену за сапогами ездить, и стал у Семена достаток прибавляться.</se>
+    <se lang="lt" variant_id="1">미하일의 솜씨에 대해서는 소문이 자자했다. 세몬의 직공 미하일만큼 튼튼하고 모양 좋은 구두를 짓는 사람은 없다고 하여 이웃 마을에서까지 주문이 밀려드는 바람에 세몬의 수입은 날로 늘어갔다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="265">
+    <se lang="ru" variant_id="0">Сидят раз по зиме Семен с Михайлой, работают, подъезжает к избе тройкой с колокольцами возок.</se>
+    <se lang="lt" variant_id="1">어느 겨울날이었다. 세몬이 미하일과 마주앉아 일을 하고 있는데 삼두마차 한 대가 방울소리도 요란하게 집 앞에 멈췄다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="266">
+    <se lang="ru" variant_id="0">Поглядели в окно: остановился возок против избы, соскочил молодец с облучка, отворил дверцу.</se>
+    <se lang="lt" variant_id="1">창문으로 내다보니 마차는 가게 바로 앞에 멈춰 서 있었는데, 젊은 사람 하나가 마부석에서 뛰어내려 마차 문을 열었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="267">
+    <se lang="ru" variant_id="0">Вылезает из возка в шубе барин.</se>
+    <se lang="lt" variant_id="1">마차 안에서 모피 외투를 입은 신사가 나왔다.</se>
+    <weight variant_id="1">-0,0340909</weight>
+  </para>
+  <para id="268">
+    <se lang="ru" variant_id="0">Вышел из возка, пошел к Семенову дому, вошел на крыльцо.</se>
+    <se lang="lt" variant_id="1">마차에서 내린 신사는 세몬의 가게를 향해 층계를 올라왔다.</se>
+    <weight variant_id="1">-0,026087</weight>
+  </para>
+  <para id="269">
+    <se lang="ru" variant_id="0">Выскочила Матрена, распахнула дверь настежь.</se>
+    <se lang="lt" variant_id="1">마트료나가 뛰어나가 문을 활짝 열었다.</se>
+    <weight variant_id="1">0,144444</weight>
+  </para>
+  <para id="270">
+    <se lang="ru" variant_id="0">Нагнулся барин, вошел в избу, выпрямился, чуть головой до потолка не достал, весь угол захватил.</se>
+    <se lang="lt" variant_id="1">신사는 몸을 구부리고 가게 안으로 들어와 허리를 쭉 폈다. 그는 머리가 천장에 닿을 만큼 키가 컸고 몸집은 방 안을 꽉 채울 정도였다.</se>
+    <weight variant_id="1">0,111765</weight>
+  </para>
+  <para id="271">
+    <se lang="ru" variant_id="0">Встал Семен, поклонился и дивуется на барина.</se>
+    <se lang="lt" variant_id="1">세몬이 일어나서 인사를 했다. 그는 신사의 거대한 몸집에 놀라 벌린 입을 다물지 못했다.</se>
+    <weight variant_id="1">0,21</weight>
+  </para>
+  <para id="272">
+    <se lang="ru" variant_id="0">И не видывал он людей таких.</se>
+    <se lang="lt" variant_id="1">이제껏 살아오면서 이런 사람은 본 적이 없었던 것이다.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="273">
+    <se lang="ru" variant_id="0">Сам Семен поджарый и Михайла худощавый, а Матрена и вовсе как щепка сухая, а этот – как с другого света человек: морда красная, налитая, шея как у быка, весь как из чугуна вылит.</se>
+    <se lang="lt" variant_id="1">세몬도 호리호리한 체격이었고 미하일도 여윈 편이었으며 마트료나로 말할 것 같으면 더욱이나 삐쩍 마른 나뭇가지나 다름없는 몸매였는데, 이 신사는 어디 딴세상에서라도 왔는지 얼굴이 불그스름하게 윤이 나고 목덜미는 황소처럼 굵직한 것이 마치 온 몸이 무쇠로 만들어진 것 같았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="274">
+    <se lang="ru" variant_id="0">Отдулся барин, снял шубу, сел на лавку и говорит:</se>
+    <se lang="lt" variant_id="1">신사는 숨을 한 번 크게 내쉬더니 외투를 벗고 의자에 앉으면서 물었다.</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="275">
+    <se lang="ru" variant_id="0">– Кто хозяин сапожник?</se>
+    <se lang="lt" variant_id="1">- 주인이 누군가?</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="276">
+    <se lang="ru" variant_id="0">Вышел Семен, говорит:</se>
+    <se lang="lt" variant_id="1">세몬이 앞으로 나서면서 말했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="277">
+    <se lang="ru" variant_id="0">– Я, ваше степенство.</se>
+    <se lang="lt" variant_id="1">- 제가 주인인뎁쇼, 나리.</se>
+    <weight variant_id="1">0,192857</weight>
+  </para>
+  <para id="278">
+    <se lang="ru" variant_id="0">Крикнул барин на своего малого:</se>
+    <se lang="lt" variant_id="1">손님은 하인에게 큰 소리로 외쳤다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="279">
+    <se lang="ru" variant_id="0">– Эй, Федька, подай сюда товар.</se>
+    <se lang="lt" variant_id="1">- 페치카, 물건을 가져오너라!</se>
+    <weight variant_id="1">0,231818</weight>
+  </para>
+  <para id="280">
+    <se lang="ru" variant_id="0">Вбежал малый, внес узелок.</se>
+    <se lang="lt" variant_id="1">하인이 달려가 꾸러미 하나를 들고 들어왔다.</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="281">
+    <se lang="ru" variant_id="0">Взял барин узел, положил на стол.</se>
+    <se lang="lt" variant_id="1">손님은 꾸러미를 탁자위에 올려놓았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="282">
+    <se lang="ru" variant_id="0">– Развяжи, – говорит.</se>
+    <se lang="lt" variant_id="1">- 풀어.</se>
+    <weight variant_id="1">0,24375</weight>
+  </para>
+  <para id="283">
+    <se lang="ru" variant_id="0">Развязал малый.</se>
+    <se lang="lt" variant_id="1">하인이 꾸러미를 풀었다.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="284">
+    <se lang="ru" variant_id="0">Ткнул барин пальцем товар сапожный и говорит Семену:</se>
+    <se lang="lt" variant_id="1">안에서 나온 것은 가죽이었는데, 손님이 그것을 손가락으로 쿡쿡 찌르며 세몬에게 말했다.</se>
+    <weight variant_id="1">0,246154</weight>
+  </para>
+  <para id="285">
+    <se lang="ru" variant_id="0">– Ну, слушай же ты, сапожник. Видишь товар?</se>
+    <se lang="lt" variant_id="1">- 이게 무슨 가죽인지 알겠나?</se>
+    <weight variant_id="1">0,242857</weight>
+  </para>
+  <para id="286">
+    <se lang="ru" variant_id="0">– Вижу, – говорит, – ваше благородие.</se>
+    <se lang="lt" variant_id="1">- 알고말굽쇼, 나리.</se>
+    <weight variant_id="1">0,072</weight>
+  </para>
+  <para id="287">
+    <se lang="ru" variant_id="0">– Да ты понимаешь ли, какой это товар?.</se>
+    <se lang="lt" variant_id="1">- 이봐, 정말 이 가죽이 무슨 가죽인지 안단 말인가?</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="288">
+    <se lang="ru" variant_id="0">Пощупал Семен товар, говорит:</se>
+    <se lang="lt" variant_id="1">세몬이 가죽을 만져보고 나서 대답했다.</se>
+    <weight variant_id="1">0,173684</weight>
+  </para>
+  <para id="289">
+    <se lang="ru" variant_id="0">– Товар хороший.</se>
+    <se lang="lt" variant_id="1">- 네, 아주 좋은 가죽입니다요. </se>
+    <weight variant_id="1">0,12</weight>
+  </para>
+  <para id="290">
+    <se lang="ru" variant_id="0">– То-то хороший!</se>
+    <se lang="lt" variant_id="1">- 그야 물론 좋은 가죽이지.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="291">
+    <se lang="ru" variant_id="0">Ты, дурак, еще не видал товару такого.</se>
+    <se lang="lt" variant_id="1">얼간이 같으니라고. 자넨 이런 가죽을 구경조차 못해 봤을걸.</se>
+    <weight variant_id="1">0,281818</weight>
+  </para>
+  <para id="292">
+    <se lang="ru" variant_id="0">Товар немецкий, двадцать рублей плачен.</se>
+    <se lang="lt" variant_id="1">이건 토이칠란트산이야. 20 루블이나 주고 산 거라구.</se>
+    <weight variant_id="1">-0,12</weight>
+  </para>
+  <para id="293">
+    <se lang="ru" variant_id="0">Заробел Семен, говорит:</se>
+    <se lang="lt" variant_id="1">세몬은 겁먹은 얼굴로 말했다.</se>
+    <weight variant_id="1">0,0545455</weight>
+  </para>
+  <para id="294">
+    <se lang="ru" variant_id="0">– Где же нам видать.</se>
+    <se lang="lt" variant_id="1">- 저 같은 놈이 감히 만져볼 수도 없는 물건이구만요.</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="295">
+    <se lang="ru" variant_id="0">– Ну, то-то.</se>
+    <se lang="lt" variant_id="1">- 그렇다마다.</se>
+    <weight variant_id="1">0,109091</weight>
+  </para>
+  <para id="296">
+    <se lang="ru" variant_id="0">Можешь ты из этого товара на мою ногу сапоги сшить?</se>
+    <se lang="lt" variant_id="1">그런데 이걸로 내 발에 꼭 맞는 장화를 지을 수 있겠나?</se>
+    <weight variant_id="1">0,146512</weight>
+  </para>
+  <para id="297">
+    <se lang="ru" variant_id="0">– Можно, ваше степенство.</se>
+    <se lang="lt" variant_id="1">- 지을 수 있고말굽쇼, 나리.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="298">
+    <se lang="ru" variant_id="0">Закричал на него барин:</se>
+    <se lang="lt" variant_id="1">신사는 느닷없이 버럭 고함을 질렀다. </se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="299">
+    <se lang="ru" variant_id="0">– То-то «можно».</se>
+    <se lang="lt" variant_id="1">- 지을 수 있다고?</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="300">
+    <se lang="ru" variant_id="0">Ты понимай, ты на кого шьешь, из какого товару.</se>
+    <se lang="lt" variant_id="1">도대체 누구의 장화를 짓는지, 어떤 가죽으로 짓는지 똑똑히 기억해 두란 말이야!</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="301">
+    <se lang="ru" variant_id="0">Такие сапоги мне сшей, чтобы год носились, не кривились, не поролись.</se>
+    <se lang="lt" variant_id="1">나는 1 년을 신어도 모양이 망가지지 않고 꿰맨 자리가 뜯어지지도 않는 장화를 원해!</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="302">
+    <se lang="ru" variant_id="0">Можешь – берись, режь товар, а не можешь – и не берись и не режь товару.</se>
+    <se lang="lt" variant_id="1">그렇게 만들 자신이 있으면 맡아서 재단을 하라구. 아니라면 아예 손대지 않는게 좋아. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="303">
+    <se lang="ru" variant_id="0">Я тебе наперед говорю: распорются, скривятся сапоги раньше году, я тебя в острог засажу; не скривятся, не распорются до году, я за работу десять рублей отдам.</se>
+    <se lang="lt" variant_id="1">미리 말해 두지만, 만약 장화가 1 년 안에 망가지거나 찢어지기라도 하면 네놈을 감옥에 처넣어 버릴 테니까. 대신 1 년이 지난 뒤에도 멀쩡하면 그때 가서 품삯으로 10 루블을 주지.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="304">
+    <se lang="ru" variant_id="0">Заробел Семен и не знает, что сказать. Оглянулся на Михайлу.</se>
+    <se lang="lt" variant_id="1">세몬은 겁이 더럭 나서 미처 대꾸할 말을 찾기 못하고 미하일 쪽을 힐끗 돌아보았다.</se>
+    <weight variant_id="1">0,258621</weight>
+  </para>
+  <para id="305">
+    <se lang="ru" variant_id="0">Толканул его локтем и шепчет:</se>
+    <se lang="lt" variant_id="1">팔꿈치로 미하일을 쿡쿡 찌르면서 세몬이 조그만 소리로 물었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="306">
+    <se lang="ru" variant_id="0">– Брать, что ли?</se>
+    <se lang="lt" variant_id="1">- 이봐 어떻게 하지?</se>
+    <weight variant_id="1">0,221429</weight>
+  </para>
+  <para id="307">
+    <se lang="ru" variant_id="0">Кивнул головой Михаила: «Бери, мол, работу».</se>
+    <se lang="lt" variant_id="1">미하일은 일을 맡으라는 듯 고개를 약간 끄덕여 보였다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="308">
+    <se lang="ru" variant_id="0">Послушался Семен Михаилу, взялся такие сапоги сшить, чтобы год не кривились, не поролись.</se>
+    <se lang="lt" variant_id="1">세몬은 미하일을 믿고 1 년이 지나도 망가지거나 찢어지지 않는 장화를 만드는 일을 맡기로 했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="309">
+    <se lang="ru" variant_id="0">Крикнул барин малого, велел снять сапог с левой ноги, вытянул ногу.</se>
+    <se lang="lt" variant_id="1">신사는 하인을 불러 왼쪽 발의 구두를 벗기게 하고는 다리를 쭉 폈다.</se>
+    <weight variant_id="1">-0,0214286</weight>
+  </para>
+  <para id="310">
+    <se lang="ru" variant_id="0">– Снимай мерку!</se>
+    <se lang="lt" variant_id="1">- 치수를 재라구!</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="311">
+    <se lang="ru" variant_id="0">Сшил Семен бумажку в десять вершков, загладил, стал на коленки, руку об фартук обтер хорошенько, чтобы барский чулок не попачкать, и стал мерить.</se>
+    <se lang="lt" variant_id="1">세몬은 50 센티미터 정도 되는 종이를 이어 붙였다. 그런 다음 자리를 깔고 무릎을 꿇고 손님의 양말을 더럽히지 않도록 앞치마에 손을 닦은 뒤 치수를 재기 시작했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="312">
+    <se lang="ru" variant_id="0">Обмерил Семен подошву, обмерил в подъеме; стал икру мерить, не сошлась бумажка.</se>
+    <se lang="lt" variant_id="1">먼저 발바닥을 재고 다음으로 발등을 재고 나서 종아리를 잴 차례가 되었는데 양쪽 종이 끝이 닿지를 않았다.</se>
+    <weight variant_id="1">0,266129</weight>
+  </para>
+  <para id="313">
+    <se lang="ru" variant_id="0">Ножища в икре как бревно толстая.</se>
+    <se lang="lt" variant_id="1">손님의 종아리가 통나무만큼이나 굵었던 것이다.</se>
+    <weight variant_id="1">0,204545</weight>
+  </para>
+  <para id="314">
+    <se lang="ru" variant_id="0">– Смотри, в голенище не обузь.</se>
+    <se lang="lt" variant_id="1">- 정신 똑바로 차리고 하라구. 종아리가 꼭 끼어서는 안되니까.</se>
+    <weight variant_id="1">0,141176</weight>
+  </para>
+  <para id="315">
+    <se lang="ru" variant_id="0">Стал Семен еще бумажку нашивать.</se>
+    <se lang="lt" variant_id="1">세몬은 다시 종이를 이어 붙였다.</se>
+    <weight variant_id="1">0,265385</weight>
+  </para>
+  <para id="316">
+    <se lang="ru" variant_id="0">Сидит барин, пошевеливает перстами в чулке, народ в избе оглядывает. Увидал Михайлу.</se>
+    <se lang="lt" variant_id="1">신사는 의젓하게 앉아 양말 속의 발가락을 꼼지락거리면서 방 안의 사람들을 둘러보다가 미하일을 보더니 물었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="317">
+    <se lang="ru" variant_id="0">– Это кто ж, – говорит, – у тебя?</se>
+    <se lang="lt" variant_id="1">- 저 사람은 누구지?</se>
+    <weight variant_id="1">0,0794118</weight>
+  </para>
+  <para id="318">
+    <se lang="ru" variant_id="0">– А это самый мой мастер, он и шить будет.</se>
+    <se lang="lt" variant_id="1">- 저희 가게의 직공인데 솜씨가 그만입지요. 그가 나리의 장화를 짓게 될것입니다요.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="319">
+    <se lang="ru" variant_id="0">– Смотри же, – говорит барин на Михайлу, – помни, так сшей, чтобы год проносились.</se>
+    <se lang="lt" variant_id="1">- 똑똑히 기억해 두라구. 1 년을 신어도 끄떡없는 신발을 만들어야 해. 신사가 미하일에게 말했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="320">
+    <se lang="ru" variant_id="0">Оглянулся и Семен на Михайлу; видит – Михайла на барина и не глядит, а уставился в угол за барином, точно вглядывается в кого.</se>
+    <se lang="lt" variant_id="1">세몬도 미하일을 돌아보았다. 그런데 미하일은 손님의 얼굴은 보지도 않고 그 뒤의 구석만 응시하고 있었다. 마치 그곳에 누군가가 있어 그가 누군지 알아내려고 유심히 살피고 있는 것 같은 표정이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="321">
+    <se lang="ru" variant_id="0">Глядел, глядел Михаила и вдруг улыбнулся и просветлел весь.</se>
+    <se lang="lt" variant_id="1">한동안 물끄러미 방구석을 바라보고 있던 미하일은 갑자기 싱긋 웃더니 얼굴이 환하게 밝아졌다.</se>
+    <weight variant_id="1">0,237209</weight>
+  </para>
+  <para id="322">
+    <se lang="ru" variant_id="0">– Ты что, дурак, зубы скалишь?</se>
+    <se lang="lt" variant_id="1">- 뭘 보고 싱글거리는 거야? 멍청한 놈 같으니!</se>
+    <weight variant_id="1">0,189474</weight>
+  </para>
+  <para id="323">
+    <se lang="ru" variant_id="0">Ты лучше смотри, чтобы к сроку готовы были.</se>
+    <se lang="lt" variant_id="1">정신차려서 기한내에 장화를 만들어낼 궁리나 할 일이지.</se>
+    <weight variant_id="1">-0,035</weight>
+  </para>
+  <para id="324">
+    <se lang="ru" variant_id="0">И говорит Михайла:</se>
+    <se lang="lt" variant_id="1">미하일이 말했다.</se>
+    <weight variant_id="1">0,09</weight>
+  </para>
+  <para id="325">
+    <se lang="ru" variant_id="0">– Как раз поспеют, когда надо.</se>
+    <se lang="lt" variant_id="1">- 네, 기한내에 틀림없이 만들어 놓겠습니다.</se>
+    <weight variant_id="1">0,0428571</weight>
+  </para>
+  <para id="326">
+    <se lang="ru" variant_id="0">– То-то.</se>
+    <se lang="lt" variant_id="1">- 명심하라구.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="327">
+    <se lang="ru" variant_id="0">Надел барин сапог, шубу, запахнулся и пошел к двери.</se>
+    <se lang="lt" variant_id="1">신사는 구두를 신고 외투를 입은 다음 문간으로 향했다.</se>
+    <weight variant_id="1">0,178125</weight>
+  </para>
+  <para id="328">
+    <se lang="ru" variant_id="0">Да забыл нагнуться, стукнулся в притолоку головой.</se>
+    <se lang="lt" variant_id="1">그런데 허리를 구부려야 한다는 사실을 깜빡 잊어버린 탓에 문틀에다 이마를 세게 들이받았다.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="329">
+    <se lang="ru" variant_id="0">Разругался барин, потер себе голову, сел в возок и уехал.</se>
+    <se lang="lt" variant_id="1">신사는 한바탕 욕설을 퍼붓고는 이마를 문지르며 마차를 타고 가버렸다.</se>
+    <weight variant_id="1">0,265909</weight>
+  </para>
+  <para id="330">
+    <se lang="ru" variant_id="0">Отъехал барин, Семен и говорит:</se>
+    <se lang="lt" variant_id="1">신사가 떠나는 걸 보고 세몬이 말했다.</se>
+    <weight variant_id="1">0,289286</weight>
+  </para>
+  <para id="331">
+    <se lang="ru" variant_id="0">– Ну уж кремняст.</se>
+    <se lang="lt" variant_id="1">- 정말 굉장한 손님이야.</se>
+    <weight variant_id="1">0,15</weight>
+  </para>
+  <para id="332">
+    <se lang="ru" variant_id="0">Этого долбней не убьешь.</se>
+    <se lang="lt" variant_id="1">저런 사람은 여간해서 죽일 수도 없을걸.</se>
+    <weight variant_id="1">0,128571</weight>
+  </para>
+  <para id="333">
+    <se lang="ru" variant_id="0">Косяк головой высадил, а ему горя мало.</se>
+    <se lang="lt" variant_id="1">틀이 부서지도록 이마를 부딪혔는데 도 그다지 아파하는 것 같지 않더군.</se>
+    <weight variant_id="1">-0,0321429</weight>
+  </para>
+  <para id="334">
+    <se lang="ru" variant_id="0">А Матрена говорит:</se>
+    <se lang="lt" variant_id="1">그러자 마트료나가 말했다.</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="335">
+    <se lang="ru" variant_id="0">– С житья такого как им гладким не быть.</se>
+    <se lang="lt" variant_id="1">- 저렇게 호사하게 사는데 체격이 안 좋을 수가 있겠수? </se>
+    <weight variant_id="1">-0,06</weight>
+  </para>
+  <para id="336">
+    <se lang="ru" variant_id="0">Этакого заклепа и смерть не возьмет.</se>
+    <se lang="lt" variant_id="1">저런 사람한테는 저승사자도 감히 범접을 못할 거예요.</se>
+    <weight variant_id="1">0,0947368</weight>
+  </para>
+  <para id="337">
+    <se lang="ru" variant_id="0">И говорит Семен Михайле:</se>
+    <se lang="lt" variant_id="1">세몬이 미하일에게 말했다.</se>
+    <weight variant_id="1">0,285714</weight>
+  </para>
+  <para id="338">
+    <se lang="ru" variant_id="0">– Взять-то взяли работу, да как бы нам беды не нажить.</se>
+    <se lang="lt" variant_id="1">- 일을 맡기 했지만 까딱 잘못하다간 꼼짝없이 감옥행이야.</se>
+    <weight variant_id="1">0,293182</weight>
+  </para>
+  <para id="339">
+    <se lang="ru" variant_id="0">Товар дорогой, а барин сердитый. Как бы не ошибиться.</se>
+    <se lang="lt" variant_id="1">최고급 가죽인데다 손님 성깔도 여간 아니니 만에 하나라도 실수가 없어야 할 텐데.</se>
+    <weight variant_id="1">0,227586</weight>
+  </para>
+  <para id="340">
+    <se lang="ru" variant_id="0">Ну-ка ты, у тебя и глаза повострее, да и в руках-то больше моего сноровки стало, на-ка мерку.</se>
+    <se lang="lt" variant_id="1">자네가 눈도 밝고 나보다 솜씨도 나으니 여기 이 치수대로 재단을 해 보게.</se>
+    <weight variant_id="1">0,08</weight>
+  </para>
+  <para id="341">
+    <se lang="ru" variant_id="0">Крои товар, а я головки дошивать буду.</se>
+    <se lang="lt" variant_id="1">나는 겉가죽을 꿰맬 테니까.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="342">
+    <se lang="ru" variant_id="0">Не ослушался Михайла, вяял товар барский, разостлал на столе, сложил вдвое, взял нож и начал кроить.</se>
+    <se lang="lt" variant_id="1">미하일은 시키는 대로 신사가 가져온 가죽을 탁자 위에 펼쳐놓고 가위로 자르기 시작했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="343">
+    <se lang="ru" variant_id="0">Подошла Матрена, глядит, как Михайла кроит, и дивится, что такое Михайла делает.</se>
+    <se lang="lt" variant_id="1">옆에 서서 미하일이 마름질하는 것을 들여다보고 있던 마트료나는 깜짝 놀랐다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="344">
+    <se lang="ru" variant_id="0">Привыкла уж и Матрена к сапожному делу, глядит и видит, что Михайла не по-сапожному товар кроит, а на круглые вырезает.</se>
+    <se lang="lt" variant_id="1">구두 짓는 일이라면 그녀도 이젠 제법 안다고 자부하는 터인데, 가만 보니 미하일은 손님이 주문한 장화 모양과는 전혀 딴판으로 가죽을 둥글게 자르고 있었던 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="345">
+    <se lang="ru" variant_id="0">Хотела сказать Матрена, да думает себе:</se>
+    <se lang="lt" variant_id="1">주의를 줄까 하다가 그녀는 다시 생각했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="346">
+    <se lang="ru" variant_id="0">«Должно, не поняла я, как сапоги барину шить; должно, Михайла лучше знает, не стану мешаться».</se>
+    <se lang="lt" variant_id="1">"손님이 주문한 내용을 내가 제대로 듣지 못한 것인지도 모르지. 나보다야 아무래도 미하일이 더 잘 알고 있을테니까 공연히 참견하지 않는데 좋을 거야."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="347">
+    <se lang="ru" variant_id="0">Скроил Михаила пару, взял конец и стал сшивать не по-сапожному, в два конца, а одним концом, как босовики шьют.</se>
+    <se lang="lt" variant_id="1">미하일은 마름질을 마치고 가죽을 꿰매기 시작했다. 그런데 장화를 꿰밀 때 쓰는 두겹실이 아니라 슬리퍼를 짓는 한겹실을 사용하는 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="348">
+    <se lang="ru" variant_id="0">Подивилась и на это Матрена, да тоже мешаться не стала.</se>
+    <se lang="lt" variant_id="1">마트료나는 이번에도 깜짝 놀랐으나 역시 참견하지 않았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="349">
+    <se lang="ru" variant_id="0">А Михайла все шьет.</se>
+    <se lang="lt" variant_id="1">미하일은 부지런히 일손을 놀리고 있었다.</se>
+    <weight variant_id="1">0,229412</weight>
+  </para>
+  <para id="350">
+    <se lang="ru" variant_id="0">Стали полудновать, поднялся Семен, смотрит – у Михайлы из барского товару босовики сшиты.</se>
+    <se lang="lt" variant_id="1">점심때가 되어 세몬이 일어나서 보니 미하일은 신사의 가죽으로 슬리퍼를 만들고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="351">
+    <se lang="ru" variant_id="0">Ахнул Семен.</se>
+    <se lang="lt" variant_id="1">세몬은 너무 놀라서 비명을 질렀다.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="352">
+    <se lang="ru" variant_id="0">«Как это, думает, Михайла год целый жил, не ошибался ни в чем, а теперь беду такую наделал?</se>
+    <se lang="lt" variant_id="1">"이게 웬일인가. 우리 집에서 일한 지 1 년이 넘도록 미하일이 실수하는 걸 본적이 없는데 하필이면 지금 같은 때 이런 엄청난 잘못을 저지르다니. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="353">
+    <se lang="ru" variant_id="0">Барин сапоги вытяжные на ранту заказывал, а он босовики сшил без подошвы, товар испортил.</se>
+    <se lang="lt" variant_id="1">손님은 굽 있는 장화를 주문했는데 밋밋한 슬리퍼 따위를 만들었으니 가죽을 통 못 쓰게 돼 버렸잖아.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="354">
+    <se lang="ru" variant_id="0">Как я теперь разделаюсь с барином?</se>
+    <se lang="lt" variant_id="1">손님한테 뭐라고 변명한단 말인가?</se>
+    <weight variant_id="1">0,278571</weight>
+  </para>
+  <para id="355">
+    <se lang="ru" variant_id="0">Товару такого не найдешь».</se>
+    <se lang="lt" variant_id="1">이런 가죽을 쉽게 구할 수도 없을텐데."</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="356">
+    <se lang="ru" variant_id="0">И говорит он Михайле:</se>
+    <se lang="lt" variant_id="1">그는 미하일에게 말했다.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="357">
+    <se lang="ru" variant_id="0">– Ты что же это, – говорит, – милая голова, наделал?</se>
+    <se lang="lt" variant_id="1">- 여보게, 이게 무슨 짓인가?</se>
+    <weight variant_id="1">0,103846</weight>
+  </para>
+  <para id="358">
+    <se lang="ru" variant_id="0">Зарезал ты меня!</se>
+    <se lang="lt" variant_id="1">자네 나를 죽이려고 작정했구만.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="359">
+    <se lang="ru" variant_id="0">Ведь барин сапоги заказывал, а ты что сшил?</se>
+    <se lang="lt" variant_id="1">손님은 분명 장화를 주문했는데 자낸 도대체 뭘 만들어 놓은 건가?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="360">
+    <se lang="ru" variant_id="0">Только начал он выговаривать Михайле – грох в кольцо у двери, стучится кто-то.</se>
+    <se lang="lt" variant_id="1">세몬이 미하일을 나무라기 시작한 순간, 현관 문고리가 덜거덕거리더니 누군가가 문을 두드렸다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="361">
+    <se lang="ru" variant_id="0">Глянули в окно: верхом кто-то приехал, лошадь привязывает.</se>
+    <se lang="lt" variant_id="1">창문으로 내다보니 누가 말을 타고 와서 이제 막 고삐를 비끄러매고 있는 중이었다.</se>
+    <weight variant_id="1">0,207692</weight>
+  </para>
+  <para id="362">
+    <se lang="ru" variant_id="0">Отперли: входит тот самый малый от барина.</se>
+    <se lang="lt" variant_id="1">나가 보니 그는 좀전에 왔던 신사의 하인이었다.</se>
+    <weight variant_id="1">0,291892</weight>
+  </para>
+  <para id="363">
+    <se lang="ru" variant_id="0">– Здорово!</se>
+    <se lang="lt" variant_id="1">- 안녕하십니까?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="364">
+    <se lang="ru" variant_id="0">– Здорово.</se>
+    <se lang="lt" variant_id="1">- 어서 와요.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="365">
+    <se lang="ru" variant_id="0">Чего надо?</se>
+    <se lang="lt" variant_id="1">그런데 무슨 일로? </se>
+    <weight variant_id="1">0,155556</weight>
+  </para>
+  <para id="366">
+    <se lang="ru" variant_id="0">– Да вот барыня прислала об сапогах.</se>
+    <se lang="lt" variant_id="1">- 주문했던 장화에 관한 일로 마님의 심부름을 왔습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="367">
+    <se lang="ru" variant_id="0">– Что об сапогах?</se>
+    <se lang="lt" variant_id="1">장화에 관한 일이라고?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="368">
+    <se lang="ru" variant_id="0">– Да что об сапогах! сапог не нужно барину.</se>
+    <se lang="lt" variant_id="1">- 장환지 구둔지 이제 필요 없게 됐습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="369">
+    <se lang="ru" variant_id="0">Приказал долго жить барин,</se>
+    <se lang="lt" variant_id="1">나리께서 돌아가셨거든요.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="370">
+    <se lang="ru" variant_id="0">– Что ты!</se>
+    <se lang="lt" variant_id="1">- 아니, 뭐라고 했소?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="371">
+    <se lang="ru" variant_id="0">– От вас до дома не доехал, в возке и помер.</se>
+    <se lang="lt" variant_id="1">- 여기서 댁으로 돌아가시던 길에 마차 안에서 돌아가셨습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="372">
+    <se lang="ru" variant_id="0">Подъехала повозка к дому, вышли высаживать, а он как куль завалился, уж и закоченел, мертвый лежит, насилу из возка выпростали.</se>
+    <se lang="lt" variant_id="1">댁에 도착해서 내려 드리려고 보니까 나리께서 짐짝처럼 바닥에 뒹굴고 있는 게 아니겠습니까? 벌써 몸이 굳어버린 뒤라 가까스로 마차에서 끌어내렸지요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="373">
+    <se lang="ru" variant_id="0">Барыня и прислала, говорит:</se>
+    <se lang="lt" variant_id="1">그래서 마님께서 제게 분부 하셨습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="374">
+    <se lang="ru" variant_id="0">«Скажи ты сапожнику, что был, мол, у вас барин, сапоги заказывал и товар оставил, так скажи: сапог не нужно, а чтобы босовики на мертвого поскорее из товару сшил.</se>
+    <se lang="lt" variant_id="1">"구둣방에 가서 말하거라. 아까 나리께서 주문하신 장화는 필요 없게 되었으니 대신 그 가죽으로 죽은 사람에게 신기는 슬리퍼를 지어달라고 말이야.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="375">
+    <se lang="ru" variant_id="0">Да дождись, пока сошьют, и с собой босовики привези».</se>
+    <se lang="lt" variant_id="1">그리고 완성되길 기다려서 슬리퍼를 가지고 오너라."</se>
+    <weight variant_id="1">0,154839</weight>
+  </para>
+  <para id="376">
+    <se lang="ru" variant_id="0">Вот и приехал.</se>
+    <se lang="lt" variant_id="1">그래서 제가 이렇게 달려온 것입니다.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="377">
+    <se lang="ru" variant_id="0">Взял Михайла со стола обрезки товара, свернул трубкой, взял и босовики готовые, щелкнул друг об друга, обтер фартуком и подал малому.</se>
+    <se lang="lt" variant_id="1">미하일은 마름질하고 남은 가죽 조각을 뭉쳐 탁자 한 켠으로 치우고 나서 완성된 슬리퍼를 툭툭 털어 앞치마에 닦은 다음 하인에게 내밀었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="378">
+    <se lang="ru" variant_id="0">Час добрый! Взял малый босовики. – Прощайте, хозяева!</se>
+    <se lang="lt" variant_id="1">안녕히 계십시요, 여러분! 이만 가보겠습니다. 하인은 슬리퍼를 받아들고 돌아갔다.</se>
+    <weight variant_id="1">-0,00789474</weight>
+  </para>
+  <para id="379">
+    <se lang="ru" variant_id="0">Прошел и еще год, и два, и живет Михайла уже шестой год у Семена. Живет по-прежнему.</se>
+    <se lang="lt" variant_id="1">다시 1 년이 지나고 2 년이 지나 미하일이 세몬의 집에 온지도 어느덧 6 년이 되었다.</se>
+    <weight variant_id="1">-0,0439024</weight>
+  </para>
+  <para id="380">
+    <se lang="ru" variant_id="0">Никуда не ходит, лишнего не говорит и во все время только два раза улыбнулся: один раз, когда баба ему ужинать собрала, другой раз на барина.</se>
+    <se lang="lt" variant_id="1">처음이나 마찬가지로 그는 어딜나다니지도 않고 실없는 소리를 지껄이는 법도 없었다. 그동안 그가 웃은 것은 단 두 번뿐이었다. 마트료나가 저녁을 차려주었을 때와 장화를 맞추러 온 신사를 보았을 때였다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="381">
+    <se lang="ru" variant_id="0">Не нарадуется Семен на своего работника.</se>
+    <se lang="lt" variant_id="1">세몬은 이 제자가 기특해 죽을 지경이었다</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="382">
+    <se lang="ru" variant_id="0">И не спрашивает его больше, откуда он; только одного боится, чтоб не ушел от него Михайла.</se>
+    <se lang="lt" variant_id="1">그는 이제 더이상 미하일에게 어디서 왔느냐고 묻지 않았다. 다만 미하일이 일을 그만두고 나가 버리지나 않을까 은근히 걱정스러울 뿐이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="383">
+    <se lang="ru" variant_id="0">Сидят раз дома.</se>
+    <se lang="lt" variant_id="1">어느 날 온 식구가 한자리에 모여 있을 때였다.</se>
+    <weight variant_id="1">-0,1125</weight>
+  </para>
+  <para id="384">
+    <se lang="ru" variant_id="0">Хозяйка в печь чугуны ставит, а ребята по лавкам бегают, в окна глядят.</se>
+    <se lang="lt" variant_id="1">마트료나는 화덕에 냄비를 올리고, 아이들은 의자 사이를 뛰어다니거나 창 밖을 내다보며 놀고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="385">
+    <se lang="ru" variant_id="0">Семен тачает у одного окна, а Михайла у другого каблук набивает.</se>
+    <se lang="lt" variant_id="1">세몬은 창가에 앉아 가죽을 꿰매고 미하일은 다른 창가에서 구두 뒤축을 다는 중이었다.</se>
+    <weight variant_id="1">0,0677419</weight>
+  </para>
+  <para id="386">
+    <se lang="ru" variant_id="0">Подбежал мальчик по лавке к Михайле, оперся ему на плечо и глядит в окно.</se>
+    <se lang="lt" variant_id="1">그때 사내아이가 의자를 넘어 미하일에게 다가와서 그의 어깨를 흔들며 창밖을 가리켰다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="387">
+    <se lang="ru" variant_id="0">– Дядя Михайла, глянь-ка, купчиха с девочками, никак, к нам идет.</se>
+    <se lang="lt" variant_id="1">- 미하일 아저씨, 저길 좀 봐요. 어떤 아줌마가 계집애 둘을 데리고 우리집으로 오고 있어요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="388">
+    <se lang="ru" variant_id="0">А девочка одна хромая.</se>
+    <se lang="lt" variant_id="1">계집아이 하나는 절름발인데요?</se>
+    <weight variant_id="1">0,284211</weight>
+  </para>
+  <para id="389">
+    <se lang="ru" variant_id="0">Только сказал это мальчик, Михайла бросил работу, повернулся к окну, глядит на улицу.</se>
+    <se lang="lt" variant_id="1">그 말을 듣자마자 미하일은 갑자기 일손을 멈추고 고개를 돌려 창문 밖을 유심히 바라보았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="390">
+    <se lang="ru" variant_id="0">И удивился Семен.</se>
+    <se lang="lt" variant_id="1">세몬은 놀랐다.</se>
+    <weight variant_id="1">0,28</weight>
+  </para>
+  <para id="391">
+    <se lang="ru" variant_id="0">То никогда не глядит на улицу Михайла, а теперь припал к окну, глядит на что-то.</se>
+    <se lang="lt" variant_id="1">이제껏 바깥을 내다보는 일이라곤 없던 사람이 오늘따라 창문에 얼굴을 들이대다시피 하고 뭔가를 정신없이 바라보고 있었기 때문이었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="392">
+    <se lang="ru" variant_id="0">Поглядел и Семен в окно; видит – вправду идет женщина к его двору, одета чисто, ведет за ручки двух девочек в шубках, в платочках в ковровых.</se>
+    <se lang="lt" variant_id="1">세몬도 밖을 내다보았다. 깨끗하게 차려입은 부인이 가게를 향해 걸어오고 있었다. 부인은 털외투를 입고 두툼한 목도리를 두른 두 여자아이의 손을 잡고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="393">
+    <se lang="ru" variant_id="0">Девочки одна в одну, разузнать нельзя. Только у одной левая ножка попорчена – идет, припадает.</se>
+    <se lang="lt" variant_id="1">아이들은 누가 누군지 분간할 수 없을 만큼 닮은 얼굴을 하고 있었는데, 다만 한 아이가 다리를 약간 절고 있었다.</se>
+    <weight variant_id="1">0,156522</weight>
+  </para>
+  <para id="394">
+    <se lang="ru" variant_id="0">Взошла женщина на крыльцо, в сени, ощупала дверь, потянула за скобу – отворила. Пропустила вперед себя двух девочек и вошла в избу.</se>
+    <se lang="lt" variant_id="1">부인은 현관 계단을 올라와 문을 열더니 먼저 두 여자아이를 안으로 들여보내고 자기도 따라들어왔다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="395">
+    <se lang="ru" variant_id="0">– Здорово, хозяева!</se>
+    <se lang="lt" variant_id="1">- 안녕하세요!</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="396">
+    <se lang="ru" variant_id="0">– Просим милости.</se>
+    <se lang="lt" variant_id="1">- 어서 오십시오.</se>
+    <weight variant_id="1">0,0789474</weight>
+  </para>
+  <para id="397">
+    <se lang="ru" variant_id="0">- Что надо?</se>
+    <se lang="lt" variant_id="1">- 무슨 볼일이신지?</se>
+    <weight variant_id="1">0,288889</weight>
+  </para>
+  <para id="398">
+    <se lang="ru" variant_id="0">Села женщина к столу.</se>
+    <se lang="lt" variant_id="1">부인은 탁자 옆에 앉았다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="399">
+    <se lang="ru" variant_id="0">Прижались ей девочки в колени, людей чудятся.</se>
+    <se lang="lt" variant_id="1">여자아이들은 낯이 선 듯 그녀의 무릎에 매달렸다.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="400">
+    <se lang="ru" variant_id="0">– Да вот девочкам на весну кожаные башмачки сшить.</se>
+    <se lang="lt" variant_id="1">- 아이들에게 봄에 신을 구두를 맞춰 주려고요.</se>
+    <weight variant_id="1">-0,116667</weight>
+  </para>
+  <para id="401">
+    <se lang="ru" variant_id="0">– Что же, можно.</se>
+    <se lang="lt" variant_id="1">- 그러세요?</se>
+    <weight variant_id="1">0,133333</weight>
+  </para>
+  <para id="402">
+    <se lang="ru" variant_id="0">Не шивали мы маленьких таких, да все можно.</se>
+    <se lang="lt" variant_id="1">저희들은 그렇게 작은 구두는 지어본 적이 없지만, 뭐, 할 수 있을 겁니다.</se>
+    <weight variant_id="1">0,253125</weight>
+  </para>
+  <para id="403">
+    <se lang="ru" variant_id="0">Можно рантовые, можно выворотные на холсте.</se>
+    <se lang="lt" variant_id="1">가장자리에 장식을 단 것이 좋을까요, 안에 천을 받친 것이 좋을까요? </se>
+    <weight variant_id="1">-0,0666667</weight>
+  </para>
+  <para id="404">
+    <se lang="ru" variant_id="0">Вот Михайла у меня мастер.</se>
+    <se lang="lt" variant_id="1">여기, 미하일은 솜씨가 정말 훌륭하답니다.</se>
+    <weight variant_id="1">0,216667</weight>
+  </para>
+  <para id="405">
+    <se lang="ru" variant_id="0">Оглянулся Семен на Михайлу и видит: Михайла работу бросил, сидит, глаз не сводит с девочек.</se>
+    <se lang="lt" variant_id="1">세몬이 미하일을 돌아보니, 그는 우두커니 앉아 두 여자아이의 얼굴을 뚫어져라 쳐다보고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="406">
+    <se lang="ru" variant_id="0">И подивился Семен на Михайлу.</se>
+    <se lang="lt" variant_id="1">그 모습이 다시 세몬을 놀라게 했다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="407">
+    <se lang="ru" variant_id="0">Правда, хороши, думает, девочки: черноглазенькие, пухленькие, румяненькие, и шубки и платочки на них хорошие, а все не поймет Семен, что он так приглядывается на них, точно знакомые они ему.</se>
+    <se lang="lt" variant_id="1">하긴 두 아이 모두 드물게 예쁘기는 했다. 눈동자는 새까맣고 두 볼은 포동포동하고 발그스름했으며, 모피 외투에 비싼 목도리를 두르고 있었다. 그렇더라도 미하일이 무슨 연유로 저렇듯 열심히 아이들을 바라보고 있는지 세몬은 이해할 수 없었다. 미하일은 마치 그 아이들을 이전부터 잘 알고 있는 것 같았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="408">
+    <se lang="ru" variant_id="0">Подивился Семен и стал с женщиной толковать – рядиться.</se>
+    <se lang="lt" variant_id="1">세몬은 이상하다고 생각하면서도 부인에게로 돌아앉아 흥정을 계속했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="409">
+    <se lang="ru" variant_id="0">Порядился, сложил мерку.</se>
+    <se lang="lt" variant_id="1">곧 값을 정하고 치수를 잴 차례가 되었다.</se>
+    <weight variant_id="1">0,216667</weight>
+  </para>
+  <para id="410">
+    <se lang="ru" variant_id="0">Подняла себе женщина на колени хроменькую и говорит:</se>
+    <se lang="lt" variant_id="1">부인은 다리를 저는 아이를 안아 올려 무릎에 앉혔다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="411">
+    <se lang="ru" variant_id="0">– Вот с этой две мерки сними; на кривенькую ножку один башмачок сшей, а на пряменькую три.</se>
+    <se lang="lt" variant_id="1">- 수고스럽겠지만 이 아이의 치수는 두 가지로 재 주셔야 겠어요. 불편한 발 쪽은 한 짝이면 되고 성한 발에 맞춰선 세 짝을 지어 주세요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="412">
+    <se lang="ru" variant_id="0">У них ножки одинакие, одна в одну.</se>
+    <se lang="lt" variant_id="1">두 아이가 치수가 같거든요.</se>
+    <weight variant_id="1">-0,0571429</weight>
+  </para>
+  <para id="413">
+    <se lang="ru" variant_id="0">Двойни они.</se>
+    <se lang="lt" variant_id="1">이 아이들은 쌍둥이랍니다.</se>
+    <weight variant_id="1">0,1875</weight>
+  </para>
+  <para id="414">
+    <se lang="ru" variant_id="0">Снял Семен мерку и говорит на хроменькую:</se>
+    <se lang="lt" variant_id="1">세몬은 치수를 재고 나서 다리가 불편한 아이를 가리키며 물었다.</se>
+    <weight variant_id="1">0,251613</weight>
+  </para>
+  <para id="415">
+    <se lang="ru" variant_id="0">– С чего же это с ней сталось?</se>
+    <se lang="lt" variant_id="1">- 어쩌다 이렇게 됐습니까?</se>
+    <weight variant_id="1">0,0857143</weight>
+  </para>
+  <para id="416">
+    <se lang="ru" variant_id="0">Девочка такая хорошая.</se>
+    <se lang="lt" variant_id="1">정말 귀여운 아인데.</se>
+    <weight variant_id="1">0,18</weight>
+  </para>
+  <para id="417">
+    <se lang="ru" variant_id="0">Сроду, что ли?</se>
+    <se lang="lt" variant_id="1">날때부터 그랬었나요?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="418">
+    <se lang="ru" variant_id="0">– Нет, мать задавила.</se>
+    <se lang="lt" variant_id="1">- 아니예요. 아이들 엄마가 잘못해서 그만.</se>
+    <weight variant_id="1">0,157143</weight>
+  </para>
+  <para id="419">
+    <se lang="ru" variant_id="0">Вступилась Матрена, хочется ей узнать, чья такая женщина и чьи дети, и говорит:</se>
+    <se lang="lt" variant_id="1">이때 마트료나가 끼여들었다. 부인과 아이들이 어디 사  누구인지 궁금해서 견 elf 수가 없었던 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="420">
+    <se lang="ru" variant_id="0">– А ты разве им не мать будешь?</se>
+    <se lang="lt" variant_id="1">- 그럼 부인은 이 아이들의 친어머니가 아니신가요?</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="421">
+    <se lang="ru" variant_id="0">– Я не мать им и не родня, хозяюшка, чужие вовсе – приемыши.</se>
+    <se lang="lt" variant_id="1">- 어머니도 아니고 친척도 아니랍니다. 남남간이지만 그냥 맡아서 기르고 있는 거예요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="422">
+    <se lang="ru" variant_id="0">– Не свои дети, а как жалеешь их!</se>
+    <se lang="lt" variant_id="1">- 그런데도 이처럼 귀여워하시는군요.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="423">
+    <se lang="ru" variant_id="0">– Как мне их не жалеть, я их обеих своею грудью выкормила.</se>
+    <se lang="lt" variant_id="1">- 직접 낳은 아이가 아니더라도 키우다 보면 정이 들게 마련이니까요. 두 아이 다 제 젖을 먹여 길렀답니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="424">
+    <se lang="ru" variant_id="0">Свое было детище, да бог прибрал, его так не жалела, как их жалею.</se>
+    <se lang="lt" variant_id="1">제 아이도 있었지만 하느님께서 데려가셨지요. 죽은 아이는 그렇게 불쌍한 줄 몰랐는데 이 아이들은 정말 가엾어서 견딜 수가 없었어요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="425">
+    <se lang="ru" variant_id="0">– Да чьи же они?</se>
+    <se lang="lt" variant_id="1">- 그럼 이 아이들은 어느 댁 따님들인가요?</se>
+    <weight variant_id="1">0,0428571</weight>
+  </para>
+  <para id="426">
+    <se lang="ru" variant_id="0">Разговорилась женщина и стала рассказывать.</se>
+    <se lang="lt" variant_id="1">부인은 다음과 같은 이야기를 들려주었다.</se>
+    <weight variant_id="1">-0,1</weight>
+  </para>
+  <para id="427">
+    <se lang="ru" variant_id="0">– Годов шесть, – говорит, – тому дело было, в одну неделю обмерли сиротки эти: отца во вторник похоронили, а мать в пятницу померла.</se>
+    <se lang="lt" variant_id="1">- 벌써 6 년 전의 일이랍니다. 이 두 아이는 태어난 지 1 주일도 못 되어 고아가 되어 버렸지요. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="428">
+    <se lang="ru" variant_id="0">Остались обморушки эти от отца трех деньков, а мать и дня не прожила.</se>
+    <se lang="lt" variant_id="1">아버지는 아이들이 태어나기 사흘 전에 세상을 떠나고 어머니는 아이들을 낳고 곧 숨을 거뒀답니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="429">
+    <se lang="ru" variant_id="0">Я в эту пору с мужем в крестьянстве жила. Соседи были, двор об двор жили.</se>
+    <se lang="lt" variant_id="1">저는 남편과 함께 이웃에서 농사를 짓고 살았는데, 이 아이들의 부모와는 한 식구처럼 지내는 사이였지요.</se>
+    <weight variant_id="1">0,136364</weight>
+  </para>
+  <para id="430">
+    <se lang="ru" variant_id="0">Отец их мужик одинокий был, в роще работал. Да уронили дерево как-то на него, его поперек прихватило, все нутро выдавило.</se>
+    <se lang="lt" variant_id="1">아이들 아버지는 숲에 들어가 혼자서 일을 하다가 어느 날 큰 나무가 넘어지면서 허리를 덮치는 바람에 쓰러져 정신을 잃었어요.</se>
+    <weight variant_id="1">0,117391</weight>
+  </para>
+  <para id="431">
+    <se lang="ru" variant_id="0">Только довезли, он и отдал богу душу, а баба его в ту же неделю и роди двойню, вот этих девочек.</se>
+    <se lang="lt" variant_id="1">가까스로 집에까지 옮겨다 놓았지만 곧 저 세상으로 가고 말았지요. 그리고 며칠 안 있어 그의 아내가 쌍둥이를 낳은 거예요. 바로 이 아이들이죠.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="432">
+    <se lang="ru" variant_id="0">Бедность, одиночество, одна баба была, – ни старухи, ни девчонки. Одна родила, одна и померла.</se>
+    <se lang="lt" variant_id="1">집이 몹시 가난한 데다 돌봐줄 친척 하나 없어, 애들 엄마는 혼자 아기를 낳고 혼자 죽어갔답니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="433">
+    <se lang="ru" variant_id="0">Пошла я наутро проведать соседку, прихожу в избу, а она, сердечная, уж и застыла. </se>
+    <se lang="lt" variant_id="1">해산 다음날 아침에 제가 문안을 갔더니, 가엾게도 애들 엄마는 이미 이세상 사람이 아니었습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="434">
+    <se lang="ru" variant_id="0">Да как помирала, завалилась на девочку. Вот эту задавила – ножку вывернула.</se>
+    <se lang="lt" variant_id="1">설상가상으로 숨을 거두는 순간 바로 이 아이위로 쓰러지는 바람에 이 아이는 다리 한쪽을 못쓰게 되고 말았죠.</se>
+    <weight variant_id="1">-0,1</weight>
+  </para>
+  <para id="435">
+    <se lang="ru" variant_id="0">Собрался народ – обмыли, спрятали, гроб сделали, похоронили.</se>
+    <se lang="lt" variant_id="1">마을 사람들이 죽은 사람을 씻기고 수의를 입히고 관을 만들어 장례를 치렀습니다.</se>
+    <weight variant_id="1">0,269388</weight>
+  </para>
+  <para id="436">
+    <se lang="ru" variant_id="0">Всё добрые люди.</se>
+    <se lang="lt" variant_id="1">다들 친절한 사람들이거든요.</se>
+    <weight variant_id="1">0,16</weight>
+  </para>
+  <para id="437">
+    <se lang="ru" variant_id="0">Остались девчонки одни. Куда их деть?</se>
+    <se lang="lt" variant_id="1">하지만 뒤에 남은 갓난아기들 일이 걱정이었지요. </se>
+    <weight variant_id="1">0,27</weight>
+  </para>
+  <para id="438">
+    <se lang="ru" variant_id="0">А я из баб одна с ребенком была.</se>
+    <se lang="lt" variant_id="1">모인 여자들 중에 젖먹이가 딸린 이는 저뿐이었습니다.</se>
+    <weight variant_id="1">0,288</weight>
+  </para>
+  <para id="439">
+    <se lang="ru" variant_id="0">Первенького мальчика восьмую неделю кормила.</se>
+    <se lang="lt" variant_id="1">제겐 태어난 지 8 주밖에 안된 첫아들이 있었거든요.</se>
+    <weight variant_id="1">0,227273</weight>
+  </para>
+  <para id="440">
+    <se lang="ru" variant_id="0">Взяла я их до времени к себе.</se>
+    <se lang="lt" variant_id="1">그래서 제가 잠시 두 아이를 맡기로 했습니다.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="441">
+    <se lang="ru" variant_id="0">Собрались мужики, думали, думали, куда их деть, и говорят мне:</se>
+    <se lang="lt" variant_id="1">마을 사람들은 다시 의논을 했죠. 하지만 무슨 뾰족한 수가 있었겠어요? 하루는 마을 사람들이 제게 말했습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="442">
+    <se lang="ru" variant_id="0">«Ты, Марья, подержи покамест девчонок у себя, а мы, дай срок, их обдумаем».</se>
+    <se lang="lt" variant_id="1">"마리아, 아이들을 좀더 데리고 있어 줘요. 우리가 어떻게든 대책을 세워볼 테니까 그때까지만."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="443">
+    <se lang="ru" variant_id="0">А я разок покормила грудью пряменькую, а эту раздавленную и кормить не стала: не чаяла ей живой быть.</se>
+    <se lang="lt" variant_id="1">저는 다리가 온전한 아이에게만 젖을 물렸습니다. 또 한 아이에겐 아예 먹일 생각도 하지 않았죠. 어차피 살 수 없을 거라고 생각했던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="444">
+    <se lang="ru" variant_id="0">Да думаю себе, за что ангельская душка млеет? Жалко стало и ту.</se>
+    <se lang="lt" variant_id="1">그러다가 갑자기 이 아이가 너무 불쌍하다는 생각이 들었어요.</se>
+    <weight variant_id="1">0,196552</weight>
+  </para>
+  <para id="445">
+    <se lang="ru" variant_id="0">Стала кормить, да так-то одного своего да этих двух – троих грудью и выкормила!</se>
+    <se lang="lt" variant_id="1">그 뒤론 모두에게 똑같이 젖을 먹였습니다. 제 아이와 이 아이들 둘 해서 한꺼번에 세 아이를 키우게 된 거죠.</se>
+    <weight variant_id="1">-0,00952381</weight>
+  </para>
+  <para id="446">
+    <se lang="ru" variant_id="0">Молода была, сила была, да и пища хорошая. И молока столько бог дал в грудях было, что зальются, бывало.</se>
+    <se lang="lt" variant_id="1">그때야 젊고 기운도 펄펄하고 먹성도 좋았으니까 그럴 수 있었을 거예요.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="447">
+    <se lang="ru" variant_id="0">Двоих кормлю, бывало, а третья ждет.</se>
+    <se lang="lt" variant_id="1">두 아이에게 젖을 물리고 있는 동안 한 아이는 차례를 기다려야 했습니다.</se>
+    <weight variant_id="1">0,12</weight>
+  </para>
+  <para id="448">
+    <se lang="ru" variant_id="0">Отвалится одна, третью возьму.</se>
+    <se lang="lt" variant_id="1">한 아이가 젖꼭지를 놓아야 다음 아이가 먹을 수 있었죠.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="449">
+    <se lang="ru" variant_id="0">Да так-то бог привел, что этих выкормила, а своего по второму годочку схоронила.</se>
+    <se lang="lt" variant_id="1">하느님의 돌보심으로 이 두 아이는 무럭무럭 자랐습니다. 그런데 제가 낳은 아이는 두 살 되던 해에 그분께서 데려가고 말았지요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="450">
+    <se lang="ru" variant_id="0">А достаток прибавляться стал.</se>
+    <se lang="lt" variant_id="1">그 후 살림살이는 점점 나아졌습니다.</se>
+    <weight variant_id="1">0,276</weight>
+  </para>
+  <para id="451">
+    <se lang="ru" variant_id="0">Вот теперь живем здесь на мельнице у купца. Жалованье большое, жизнь хорошая.</se>
+    <se lang="lt" variant_id="1">지금은 이 거리 상인들 소유의 물방앗간 일을 맡아보고 있는데 수입이 좋아 살아가는 데는 아무런 걱정이 없답니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="452">
+    <se lang="ru" variant_id="0">А детей нет.</se>
+    <se lang="lt" variant_id="1">다만 아이가 없을 뿐이죠.</se>
+    <weight variant_id="1">0,218182</weight>
+  </para>
+  <para id="453">
+    <se lang="ru" variant_id="0">И как бы мне жить одной, кабы не девчонки эти!</se>
+    <se lang="lt" variant_id="1">정말 이 아이들이 없었다면 혼자 쓸쓸해서 어떻게 살았을까요!</se>
+    <weight variant_id="1">0,144</weight>
+  </para>
+  <para id="454">
+    <se lang="ru" variant_id="0">Как же мне их не любить!</se>
+    <se lang="lt" variant_id="1">제가 이 아이들를 귀여워하는 건 너무나 당연한 일이죠.</se>
+    <weight variant_id="1">0,24</weight>
+  </para>
+  <para id="455">
+    <se lang="ru" variant_id="0">Только у меня и воску в свечке, что они!</se>
+    <se lang="lt" variant_id="1">이 아이들은 제게 촛불과도 같은 존재인 걸요. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="456">
+    <se lang="ru" variant_id="0">Прижала к себе женщина одною рукой девочку хроменькую, а другою рукой стала со щек слезы стирать.</se>
+    <se lang="lt" variant_id="1">부인은 한 손으로 다리를 저는 아이를 당겨 안으면서 다른 한 손으론 빰을 타고 흘러내리는 눈물을 닦았다.</se>
+    <weight variant_id="1">0,292174</weight>
+  </para>
+  <para id="457">
+    <se lang="ru" variant_id="0">И вздохнула Матрена и говорит:</se>
+    <se lang="lt" variant_id="1">마트료나가 긴 한숨을 내쉬며 말했다.</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="458">
+    <se lang="ru" variant_id="0">– Видно, пословица не мимо молвится: без отца, матери проживут, а без бога не проживут.</se>
+    <se lang="lt" variant_id="1">- 부모도 없이는 살 수 있어도 하느님 없이는 살 수 없다더니 과연 그 말이 옳은 것 같군요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="459">
+    <se lang="ru" variant_id="0">Поговорили они так промеж себя, поднялась женщина идти; проводили ее хозяева, оглянулись на Михайлу.</se>
+    <se lang="lt" variant_id="1">세 사람이 이런 말들을 주거니받거니 하고 있을 때, 갑자기 미하일이 앉아 있는 구석에서 섬광이 비치더니 방 안이 환하게 밝아졌다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="460">
+    <se lang="ru" variant_id="0">А он сидит, сложивши руки на коленках, глядит вверх, улыбается.</se>
+    <se lang="lt" variant_id="1">미하일은 두 손을 무릎에 얹고 하늘을 올려다보며 빙그레 웃고 있었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="461">
+    <se lang="ru" variant_id="0">Встал Михайла с лавки, положил работу, снял фартук, поклонился хозяину с хозяйкой и говорит:</se>
+    <se lang="lt" variant_id="1">부인이 아이들을 데리고 돌아가자 미하일은 걸상에서 일어나 일감을 탁자 위에 올려놓고 앞치마를 벗더니 주인 내외에게 공손히 절을 하면서 말했다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="462">
+    <se lang="ru" variant_id="0">– Простите, хозяева.</se>
+    <se lang="lt" variant_id="1">- 이제 작별을 해야겠습니다.</se>
+    <weight variant_id="1">0,125</weight>
+  </para>
+  <para id="463">
+    <se lang="ru" variant_id="0">Меня бог простил. Простите и вы.</se>
+    <se lang="lt" variant_id="1">하느님께서 저를 용서해 주셨으니 두 분께서도 부디 저를 용서해 주십시오.</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="464">
+    <se lang="ru" variant_id="0">И видят хозяева, что от Михайлы свет идет.</se>
+    <se lang="lt" variant_id="1">주인 내외는 그에게서 눈부신 후광이 비치고 있는 것을 보았다.</se>
+    <weight variant_id="1">0,06</weight>
+  </para>
+  <para id="465">
+    <se lang="ru" variant_id="0">И встал Семен, поклонился Михайле и сказал ему:</se>
+    <se lang="lt" variant_id="1">세몬도 일어나 마주 절하면서 말했다.</se>
+    <weight variant_id="1">-0,117391</weight>
+  </para>
+  <para id="466">
+    <se lang="ru" variant_id="0">– Вижу я, Михайла, что ты не простой человек, и не могу я тебя держать, и не могу я тебя спрашивать.</se>
+    <se lang="lt" variant_id="1">- 미하일, 역시 자네는 보통 인간이 아니었군. 더 이상 자네를 붙잡을 수도, 이것저것 캐물을 수도 없을 것 같네.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="467">
+    <se lang="ru" variant_id="0">Скажи мне только одно: отчего, когда я нашел тебя и привел в дом, ты был пасмурен, и когда баба подала тебе ужинать, ты улыбнулся на нее и с тех пор стал светлее?</se>
+    <se lang="lt" variant_id="1">하지만 이것 한 가지만은 알려 줄 수 없겠나? 내가 처음 자네를 만나 집으로 데리고 왔을 때 자네는 몹시 어두운 얼굴을 하고 있었네. 그러다가 집사람이 저녁을 대접하자 자네는 싱긋 웃으며 갑자기 표정이 밝아졌는데, 그건 어찌된 영문인가?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="468">
+    <se lang="ru" variant_id="0">Потом, когда барин заказывал сапоги, ты улыбнулся в другой раз и с тех пор стал еще светлее?</se>
+    <se lang="lt" variant_id="1">그 뒤 어느 신사분이 장화를 맞추러 온 적이 있었지. 그때도 자넨 싱긋 웃으며 밝은 표정을 지었어.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="469">
+    <se lang="ru" variant_id="0">И теперь, когда женщина приводила девочек, ты улыбнулся в третий раз и весь просветлел.</se>
+    <se lang="lt" variant_id="1">아까 그 부인이 아이들을 데리고 왔을 때 자네는 세 번째로 웃었네. 그리고 자네 몸에서 후광이 비쳤지.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="470">
+    <se lang="ru" variant_id="0">Скажи мне, Михайла, отчего такой свет от тебя и отчего ты улыбнулся три раза?</se>
+    <se lang="lt" variant_id="1">미하일, 왜 자네 몸에서 빛이 나는지, 그리고 어째서 세 번을 웃었는지 그 까닭을 말해 주지 않겠나?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="471">
+    <se lang="ru" variant_id="0">И сказал Михайла:</se>
+    <se lang="lt" variant_id="1">미하일이 입을 열었다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="472">
+    <se lang="ru" variant_id="0">– Оттого свет от меня, что я был наказан, а теперь бог простил меня.</se>
+    <se lang="lt" variant_id="1">- 제 몸에서 빛이 나는 건 다름이 아닙니다. 저는 지금까지 하느님의 벌을 받고 있었는데 이제 용서를 받았기 때문이지요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="473">
+    <se lang="ru" variant_id="0">А улыбнулся я три раза оттого, что мне надо было узнать три слова божии.</se>
+    <se lang="lt" variant_id="1">그리고 제가 세 번 웃은 것은 하느님께서 제게 내리신 세 가지 말씀의 뜻을 알게 되었기 때문입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="474">
+    <se lang="ru" variant_id="0">И я узнал слова божьи; одно слово я узнал, когда твоя жена пожалела меня, и оттого я в первый раз улыбнулся.</se>
+    <se lang="lt" variant_id="1">첫 번째 말씀의 뜻은 아주머니께서 저를 가엾게 여겨주셨을 때 깨달았지요. 그래서 웃었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="475">
+    <se lang="ru" variant_id="0">Другое слово я узнал, когда богач заказывал сапоги, и я в другой раз улыбнулся; и теперь, когда я увидал девочек, я узнал последнее, третье слово, и я улыбнулся в третий раз.</se>
+    <se lang="lt" variant_id="1">두 번째 말씀의 뜻은 부자 나리가 장화를 주문했을 때 알게 되었습니다. 그래서 두 번째로 웃었지요. 그리고 오늘 두 여자아이를 보았을 때 세 번째 말씀의 의미를 알게 되어 또다시 웃은 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="476">
+    <se lang="ru" variant_id="0">И сказал Семен:</se>
+    <se lang="lt" variant_id="1">세몬이 다시 물었다.</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="477">
+    <se lang="ru" variant_id="0">– Скажи мне, Михайла, за что бог наказал тебя и какие те слова бога, чтобы мне знать.</se>
+    <se lang="lt" variant_id="1">- 하느님께선 무슨 이유로 자네에게 벌을 내리셨는가? 그리고 하느님의 세 가지 말씀이란 뭔가?</se>
+    <weight variant_id="1">0,0615385</weight>
+  </para>
+  <para id="478">
+    <se lang="ru" variant_id="0">И сказал Михайла:</se>
+    <se lang="lt" variant_id="1">미하일이 대답했다.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="479">
+    <se lang="ru" variant_id="0">– Наказал меня бог за то, что я ослушался его.</se>
+    <se lang="lt" variant_id="1">- 제가 벌을 받은 것은 하느님의 말씀을 거역했기 때문입니다.</se>
+    <weight variant_id="1">-0,0227273</weight>
+  </para>
+  <para id="480">
+    <se lang="ru" variant_id="0">Я был ангел на небе и ослушался бога. Был я ангел на небе, и послал меня господь вынуть из женщины душу.</se>
+    <se lang="lt" variant_id="1">저는 본래 천사였는데, 하루는 하느님께서 제게 한 여인의 영혼을 거두어 오라는 분부를 내리셨습니다.</se>
+    <weight variant_id="1">0,0833333</weight>
+  </para>
+  <para id="481">
+    <se lang="ru" variant_id="0">Слетел я на землю, вижу: лежит одна жена – больна, родила двойню, двух девочек.</se>
+    <se lang="lt" variant_id="1">제가 지상에 내려와서 보니 그 여인은 몹시 쇠약한 몸으로 자리에 누워 있었습니다. 여인은 방금 쌍둥이 아이를 낳았던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="482">
+    <se lang="ru" variant_id="0">Копошатся девочки подле матери, и не может их мать к грудям взять.</se>
+    <se lang="lt" variant_id="1">갓난아기들은 어머니 곁에서 꼼지락거리고 있는데 어머니는 아기들에게 젖을 먹일 기운조차 없어 보였습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="483">
+    <se lang="ru" variant_id="0">Увидала меня жена, поняла, что бог меня по душу послал, заплакала и говорит: </se>
+    <se lang="lt" variant_id="1">여인은 나를 보자 하느님께서 보내신 줄 짐작하고 흐느껴 울면서 말했습니다. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="484">
+    <se lang="ru" variant_id="0">«Ангел божий! мужа моего только схоронили, деревом в лесу убило.</se>
+    <se lang="lt" variant_id="1">"오, 천사님! 제 남편은 숲에서 일하다 나무에 깔려 죽었습니다. 바로 엊그제 장례를 치렀지요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="485">
+    <se lang="ru" variant_id="0">Нет у меня ни сестры, ни тетки, ни бабки, некому моих сирот взрастить.</se>
+    <se lang="lt" variant_id="1">제겐 형제자매도, 아주머니도 할머니도 없습니다. 이 갓난애들을 돌봐줄 사람은 아무도 없습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="486">
+    <se lang="ru" variant_id="0">Не бери ты мою душеньку, дай мне самой детей вспоить, вскормить, на ноги поставить!</se>
+    <se lang="lt" variant_id="1">제발 제 영혼을 거둬가지 마시고 이 아이들을 제 손으로 키울 수 있게 해주십시오!</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="487">
+    <se lang="ru" variant_id="0">Нельзя детям без отца, без матери прожить!»</se>
+    <se lang="lt" variant_id="1">이 핏덩이들이 부모 없이 어떻게 목숨을 부지할 수 있겠습니까!"</se>
+    <weight variant_id="1">-0,0611111</weight>
+  </para>
+  <para id="488">
+    <se lang="ru" variant_id="0">И послушал я матери, приложил одну девочку к груди, подал другую матери в руки и поднялся к господу на небо.</se>
+    <se lang="lt" variant_id="1">저는 여인이 애원하는 말을 듣고 아기 하나를 안아 어머니의 젖꼭지를 물려주고 다른 아기는 어머니의 품에 안겨 준 다음 하늘나라로 돌아갔습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="489">
+    <se lang="ru" variant_id="0">Прилетел к господу и говорю:</se>
+    <se lang="lt" variant_id="1">그리고 하느님께 말씀드렸습니다. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="490">
+    <se lang="ru" variant_id="0"> «Не мог я из родильницы души вынуть.</se>
+    <se lang="lt" variant_id="1">"여인의 영혼은 거두어 오지 못했습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="491">
+    <se lang="ru" variant_id="0">Отца деревом убило, мать родила двойню и молит не брать из нее души, говорит:</se>
+    <se lang="lt" variant_id="1">여인의 남편은 나무에 깔려 죽고, 여인은 방금 쌍둥이를 낳은 참이었습니다. 그 여인은 저를 보고 울면서 애원했습니다. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="492">
+    <se lang="ru" variant_id="0"> &quot;Дай мне детей вспоить, вскормить, на ноги поставить.  Нельзя детям без отца, без матери прожить&quot;.</se>
+    <se lang="lt" variant_id="1">"제발 영혼을 거두어 가지 말아 달라고 말입니다.  제발 자기 손으로 아이들을 키울 수 있게 해 달라면서, 부모가 없으면 그 갓난아이들은 살 수 없을 거라고 말했습니다."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="493">
+    <se lang="ru" variant_id="0">Не вынул я из родильницы душу».</se>
+    <se lang="lt" variant_id="1">저는 차마 그 여인의 영혼을 빼앗을 수 없었습니다."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="494">
+    <se lang="ru" variant_id="0">И сказал господь: </se>
+    <se lang="lt" variant_id="1">그러자 하느님께서 다시 분부하셨습니다.</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="495">
+    <se lang="ru" variant_id="0">«Поди вынь из родильницы душу и узнаешь три слова: узнаешь, что есть в людях, и чего не дано людям, и чем люди живы.</se>
+    <se lang="lt" variant_id="1">"내려가 산모의 영혼을 거두어라. 그러면 세 가지 말의 뜻을 알게 될 것이다. 인간의 내부에는 무엇이 있는가? 인간에게 허락되지 않은 것은 무엇인가? 그리고 사람은 무엇으로 사는가?</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="496">
+    <se lang="ru" variant_id="0">Когда узнаешь, вернешься на небо».</se>
+    <se lang="lt" variant_id="1">이 세 가지를 알게 되는 날 너는 하늘나라로 돌아올 수 있을 것이다."</se>
+    <weight variant_id="1">-0,0642857</weight>
+  </para>
+  <para id="497">
+    <se lang="ru" variant_id="0">Полетел я назад на землю и вынул из родильницы душу.</se>
+    <se lang="lt" variant_id="1">그래서 저는 다시 지상으로 내려와 산모의 영혼을 거두었습니다.</se>
+    <weight variant_id="1">-0,07</weight>
+  </para>
+  <para id="498">
+    <se lang="ru" variant_id="0">Отпали младенцы от грудей. Завалилось на кровати мертвое тело, придавило одну девочку, вывернуло ей ножку.</se>
+    <se lang="lt" variant_id="1">아기들은 어머니 품에서 떨어졌으나, 죽은 여인의 몸이 침대 위로 쓰러지면서 한 아이를 덮쳐 그만 한 쪽 다리를 못 쓰게 만들고 말았습니다.</se>
+    <weight variant_id="1">0,286957</weight>
+  </para>
+  <para id="499">
+    <se lang="ru" variant_id="0">Поднялся я над селом, хотел отнести душу богу, подхватил меня ветер, повисли у меня крылья, отвалились, и пошла душа одна к богу, а я упал у дороги на землю.</se>
+    <se lang="lt" variant_id="1">저는 여인의 영혼을 하느님께 바치기 위해 다시 하늘로 날아올라 갔습니다. 그런데 갑자기 거센 바람이 몰아쳐 제 두 날개를 부러뜨렸습니다. 그래서 그 여인의 영혼만 하늘나라로 올라가고 저는 지상으로 떨어지게 되었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="500">
+    <se lang="ru" variant_id="0">И поняли Семен с Матреной, кого они одели и накормили и кто жил с ними, и заплакали они от страха и радости.</se>
+    <se lang="lt" variant_id="1">세몬과 마트료나는 자기들이 먹이고 입혔던 사람이 누구인지, 자기들과 같이 살고 함께 일해 온 사람이 누구인지를 깨닫고 두려움과 기쁨으로 눈물을 흘렸다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="501">
+    <se lang="ru" variant_id="0">И сказал ангел:</se>
+    <se lang="lt" variant_id="1">천사가 다시 입을 열었다.</se>
+    <weight variant_id="1">0,276923</weight>
+  </para>
+  <para id="502">
+    <se lang="ru" variant_id="0">– Остался я один в поле и нагой.</se>
+    <se lang="lt" variant_id="1">- 저는 벌거벗은 채 홀로 들판에 버려졌습니다. </se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="503">
+    <se lang="ru" variant_id="0">Не знал я прежде нужды людской, не знал ни холода, ни голода, и стал человеком.</se>
+    <se lang="lt" variant_id="1">그때까지 저는 인간 생활의 괴로움도 모르고 추위나 굶주림도 알지 못했습니다.</se>
+    <weight variant_id="1">0,0342857</weight>
+  </para>
+  <para id="504">
+    <se lang="ru" variant_id="0">Проголодался, измерз и не знал, что делать.</se>
+    <se lang="lt" variant_id="1">배가 몹시 고프고 몸은 얼어오는데 전 어떻게 해야할 지 알 수가 없었습니다.</se>
+    <weight variant_id="1">0,283333</weight>
+  </para>
+  <para id="505">
+    <se lang="ru" variant_id="0">Увидал я – в поле часовня для бога сделана, подошел к божьей часовне, хотел в ней укрыться.</se>
+    <se lang="lt" variant_id="1">그때 문득 하느님을 섬기는 교회가 들판 가운데 서 있는 게 보였습니다. 저기 몸을 의지하면 되겠다 싶어 저는 그곳으로 다가갔습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="506">
+    <se lang="ru" variant_id="0">Часовня заперта была замком, и войти нельзя было.</se>
+    <se lang="lt" variant_id="1">그러나 교회 문이 닫혀 있어 들어갈 수가 없었습니다.</se>
+    <weight variant_id="1">-0,0153846</weight>
+  </para>
+  <para id="507">
+    <se lang="ru" variant_id="0">И сел я за часовней, чтобы укрыться от ветра.</se>
+    <se lang="lt" variant_id="1">그래서 바람이나 피하려고 교회 뒤쪽에 웅크리고 앉아 있었지요.</se>
+    <weight variant_id="1">0,236842</weight>
+  </para>
+  <para id="508">
+    <se lang="ru" variant_id="0">Пришел вечер, проголодался я и застыл и изболел весь.</se>
+    <se lang="lt" variant_id="1">날이 저물자 허기는 더욱 심해지고 몸은 꽁꽁 얼어붙어 금방 죽을 것만 같았습니다. </se>
+    <weight variant_id="1">0,154839</weight>
+  </para>
+  <para id="509">
+    <se lang="ru" variant_id="0">Вдруг слышу: идет человек по дороге, несет сапоги, сам с собой говорит.</se>
+    <se lang="lt" variant_id="1">그때 문득 어떤 사람이 장화를 들고 길을 걸어오면서 혼자 중얼거리는 소리가 들렸습니다.</se>
+    <weight variant_id="1">0,0771429</weight>
+  </para>
+  <para id="510">
+    <se lang="ru" variant_id="0">И увидал я впервой смертное лицо человеческое после того, как стал человеком, и страшно мне стало это лицо, отвернулся я от него.</se>
+    <se lang="lt" variant_id="1">저는 인간이 되어 처음으로 언젠가는 죽어야 할 인간의 얼굴을 보았습니다. 그 얼굴을 쳐다보기가 두려워 저는 고개를 돌려 버렸습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="511">
+    <se lang="ru" variant_id="0">И слышу я, что говорит сам с собой этот человек о том, как ему свое тело от стужи в зиму прикрыть, как жену и детей прокормить.</se>
+    <se lang="lt" variant_id="1">그런데 가만히 들어보니 그 사나이는 어떻게 이 추운 겨울을 날 것인가, 어떻게 처자식을 먹여 살릴 것인가를 걱정하고 있었습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="512">
+    <se lang="ru" variant_id="0">И подумал:</se>
+    <se lang="lt" variant_id="1">그래서 저는 생각했습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="513">
+    <se lang="ru" variant_id="0">«Я пропадаю от холода и голода, а вот идет человек, только о том и думает, как себя с женой шубой прикрыть и хлебом прокормить. Нельзя ему помочь мне».</se>
+    <se lang="lt" variant_id="1">"나는 지금 추위와 굶주림으로 죽어가고 있다. 마침 저기 사람이 오고 있지만, 그는 자기 아내의 모피 외투를 마련할 일이며 식구들을 먹여살릴 일 때문에 걱정이 태산 같으니 나를 도와주긴 틀렸다."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="514">
+    <se lang="ru" variant_id="0">Увидал меня человек, нахмурился, стал еще страшнее и прошел мимо.</se>
+    <se lang="lt" variant_id="1">그 사람은 저를 보더니 이마를 찡그리며 아까보다 더욱 무서운 얼굴이 되어 그대로 지나가 버렸습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="515">
+    <se lang="ru" variant_id="0">И отчаялся я.</se>
+    <se lang="lt" variant_id="1">실낱 같은 한 줄기 희망마저 사라져 버린 것이었습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="516">
+    <se lang="ru" variant_id="0">Вдруг слышу, идет назад человек.</se>
+    <se lang="lt" variant_id="1">그런데 갑자기 사나이가 되돌아오는 발소리가 들렸습니다.</se>
+    <weight variant_id="1">0,2375</weight>
+  </para>
+  <para id="517">
+    <se lang="ru" variant_id="0">Взглянул я и не узнал прежнего человека: то в лице его была смерть, а теперь вдруг стал живой, и в лице его я узнал бога.</se>
+    <se lang="lt" variant_id="1">그의 얼굴을 본 순간 저는 조금 전에 지나간 사람이 아니구나, 하고 생각했을 정도였습니다. 아까는 그 얼굴에 죽음의 기운이 서려 있었는데, 다시 돌아왔을 때 보니 만면에 생기가 돌고 하느님의 그림자가 그 속에 얼비쳐 있었거든요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="518">
+    <se lang="ru" variant_id="0">Подошел он ко мне, одел меня, взял с собой и повел к себе в дом.</se>
+    <se lang="lt" variant_id="1">사나이는 제게로 다가오더니 자기가 입고 있던 옷을 벗어서 입혀주고 저를 자기 집으로 데리고 갔습니다.</se>
+    <weight variant_id="1">0,226829</weight>
+  </para>
+  <para id="519">
+    <se lang="ru" variant_id="0">Пришел я в его дом, вышла нам навстречу женщина и стала говорить.</se>
+    <se lang="lt" variant_id="1">집에 당도하자 한 여인이 뛰어나와 잔소리를 늘어놓기 시작했습니다.</se>
+    <weight variant_id="1">0,0310345</weight>
+  </para>
+  <para id="520">
+    <se lang="ru" variant_id="0">Женщина была еще страшнее человека – мертвый дух шел у нее изо рта, и я не мог продохнуть от смрада смерти.</se>
+    <se lang="lt" variant_id="1">그 여인은 사나이보다 훨씬 더 무서운 얼굴을 하고 있었습니다. 그녀의 입에서 뿜어져 나오는 죽음의 독기 때문에 저는 숨을 쉴 수도 없었습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="521">
+    <se lang="ru" variant_id="0">Она хотела выгнать меня на холод, и я знал, что умрет она, если выгонит меня.</se>
+    <se lang="lt" variant_id="1">여인은 저를 밖으로 내몰려고 했습니다. 만약 그대로 저를 내쫓았다면 여인은 그 자리에서 죽고 말았을 것입니다. 저는 그 사실을 알고 있었습니다.</se>
+    <weight variant_id="1">-0,15</weight>
+  </para>
+  <para id="522">
+    <se lang="ru" variant_id="0">И вдруг муж ее напомнил ей о боге, и женщина вдруг переменилась.</se>
+    <se lang="lt" variant_id="1">그때 여인의 남편이 문득 하느님을 상기시켰습니다. 그러자 갑자기 여인의 기세가 누그러지면서 태도가 부드러워졌습니다.</se>
+    <weight variant_id="1">0,255319</weight>
+  </para>
+  <para id="523">
+    <se lang="ru" variant_id="0">И когда она подала нам ужинать, а сама глядела на меня, я взглянул на нее – в ней уже не было смерти, она была живая, и я и в ней узнал бога.</se>
+    <se lang="lt" variant_id="1">여인의 얼굴에서 죽음의 그림자는 이미 흔적조차 사라지고 없었습니다. 여인의 얼굴에는 생기가 넘쳤습니다. 저는 거기서 하느님의 모습을 보았습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="524">
+    <se lang="ru" variant_id="0">И вспомнил я первое слово бога: «Узнаешь, что есть в людях».</se>
+    <se lang="lt" variant_id="1">그 순간 저는 하느님의 말씀이 떠올랐습니다. 하느님은 제게 말씀하셨었지요. "인간의 내부에 무엇이 있는지 알게 될 것이다."</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="525">
+    <se lang="ru" variant_id="0">И я узнал, что есть в людях любовь.</se>
+    <se lang="lt" variant_id="1">저는 인간의 내부에 있는 것이 사랑임을 깨달았습니다.</se>
+    <weight variant_id="1">0,204545</weight>
+  </para>
+  <para id="526">
+    <se lang="ru" variant_id="0">И обрадовался я тому, что бог уже начал открывать мне то, что обещал, и улыбнулся в первый раз.</se>
+    <se lang="lt" variant_id="1">하느님께서 내게 약속하신 일을 이렇게 보여 주시는구나, 하고 생각하니 저는 더할 수 없이 기뻤습니다. 그래서 싱긋 웃었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="527">
+    <se lang="ru" variant_id="0">Но всего не мог я узнать еще.</se>
+    <se lang="lt" variant_id="1">그렇지만 전부를 알게 된 것은 아니었습니다.</se>
+    <weight variant_id="1">0,0461538</weight>
+  </para>
+  <para id="528">
+    <se lang="ru" variant_id="0">Не мог я понять, чего не дано людям и чем люди живы.</se>
+    <se lang="lt" variant_id="1">인간에게 허락되지 않은 것은 무엇인가, 그리고 사람은 무엇으로 사는가에 대한 해답을 저는 아직 구하지 못하고 있었습니다.</se>
+    <weight variant_id="1">-0,24</weight>
+  </para>
+  <para id="529">
+    <se lang="ru" variant_id="0">Стал я жить у вас и прожил год.</se>
+    <se lang="lt" variant_id="1">그날부터 두 분과 함께 지내기 시작해서 1 년이란 세월이 흘렀습니다.</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="530">
+    <se lang="ru" variant_id="0">И приехал человек заказывать сапоги такие, чтобы год носились, не поролись, не кривились.</se>
+    <se lang="lt" variant_id="1">어느 날 한 사나이가 찾아와서 1 년을 신어도 망가지거나 찢어지지 않을 장화를 주문했습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="531">
+    <se lang="ru" variant_id="0">Я взглянул на него и вдруг за плечами его увидал товарища своего, смертного ангела.</se>
+    <se lang="lt" variant_id="1">그 사나이를 쳐다보는 순간 저는 그의 등뒤에 제 동료인 죽음의 천사가 서 있는 걸 알아보았습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="532">
+    <se lang="ru" variant_id="0">Никто, кроме меня, не видал этого ангела, но я знал его и знал, что не зайдет еще солнце, как возьмется душа богача.</se>
+    <se lang="lt" variant_id="1">저 말고는 아무도 보지 못했지만 저는 그 천사를 알고 있었습니다. 그리고 사나이의 영혼이 해가 지기 전에 그의 몸을 떠나게 되리라는 사실도 알고 있었죠.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="533">
+    <se lang="ru" variant_id="0">И подумал я:</se>
+    <se lang="lt" variant_id="1">저는 생각했습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="534">
+    <se lang="ru" variant_id="0">«Припасает себе человек на год, а не знает, что не будет жив до вечера».</se>
+    <se lang="lt" variant_id="1">"이 사나이는 1 년을 신어도 망가지지 않을 신발을 원하지만 자신이 오늘 중으로 죽을 거라는 사실은 모르는구나."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="535">
+    <se lang="ru" variant_id="0">И вспомнил я другое слово бога: «Узнаешь, чего не дано людям».</se>
+    <se lang="lt" variant_id="1">저는 "인간에게 허락되지 않은 것은 무엇인가? "라는 하느님의 두 번째 말씀을 생각해냈습니다.</se>
+    <weight variant_id="1">0,26875</weight>
+  </para>
+  <para id="536">
+    <se lang="ru" variant_id="0">Что есть в людях, я уже знал.</se>
+    <se lang="lt" variant_id="1">인간의 내부에 무엇이 있는지는 이미 알고 있었습니다.</se>
+    <weight variant_id="1">-0,2</weight>
+  </para>
+  <para id="537">
+    <se lang="ru" variant_id="0">Теперь я узнал, чего не дано людям.</se>
+    <se lang="lt" variant_id="1">그리고 이번에는 인간에게 허락되지 않은 것이 무엇인지를 깨달은 것입니다.</se>
+    <weight variant_id="1">0,126316</weight>
+  </para>
+  <para id="538">
+    <se lang="ru" variant_id="0">Не дано людям знать, чего им для своего тела нужно. И улыбнулся я в другой раз.</se>
+    <se lang="lt" variant_id="1">그것은 바로 자기에게 진정 필요한 것이 무엇인가를 아는 지혜였습니다.</se>
+    <weight variant_id="1">-0,116667</weight>
+  </para>
+  <para id="539">
+    <se lang="ru" variant_id="0">Обрадовался я тому, что увидал товарища ангела, и тому, что бог мне другое слово открыл.</se>
+    <se lang="lt" variant_id="1">옛 동료였던 천사를 만난 일도 기뻤지만, 무엇보다도 두 번째 말씀의 뜻을 깨닫게 된 것이 기뻐서 저는 다시 싱긋 웃었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="540">
+    <se lang="ru" variant_id="0">Но всего не мог я понять.</se>
+    <se lang="lt" variant_id="1">1 년을 신어도 끄떡없는 신발을 만들어야 해.</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="541">
+    <se lang="ru" variant_id="0">Не мог еще я понять, чем люди живы.</se>
+    <se lang="lt" variant_id="1">하지만 아직도 전부를 깨닫지는 못했습니다. 사람은 무엇으로 사는가를 저는 아직 알지 못하고 있었습니다.</se>
+    <weight variant_id="1">-0,0692308</weight>
+  </para>
+  <para id="542">
+    <se lang="ru" variant_id="0">И все жил я и ждал, когда бог откроет мне последнее слово.</se>
+    <se lang="lt" variant_id="1">그래서 저는 계속 이 댁에 머무르면서 하느님께서 마지막 말씀의 뜻을 깨닫게 해주시기를 기다리고 있었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="543">
+    <se lang="ru" variant_id="0">И на шестом году пришли девочки-двойни с женщиной, и узнал я девочек, и узнал, как остались живы девочки эти.</se>
+    <se lang="lt" variant_id="1">마침내 6 년째 되는 오늘, 한 부인이 쌍둥이 여자아이를 데리고 가게를 찾아왔습니다. 그 아이들을 보았을 때, 저는 때어나자마자 어머니를 잃어버린 그 아이들이 무사히 잘 자라고 있다는 걸 알게 되었습니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="544">
+    <se lang="ru" variant_id="0">Узнал и подумал:</se>
+    <se lang="lt" variant_id="1">저는 생각했습니다. </se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="545">
+    <se lang="ru" variant_id="0">«Просила мать за детей, и поверил я матери, – думал, что без отца, матери нельзя прожить детям, а чужая женщина вскормила, взрастила их».</se>
+    <se lang="lt" variant_id="1">"아이들을 위해 그 어머니가 눈물을 흘리며 살려달라고 애원했을 때, 나는 그 여인의 말대로 아이들은 부모 없이 살아갈 수 없다고 생각했었다. 그러나 아이들과 아무 관도 없는 여인이 그 애들을 맡아 잘 키우고 있지 않은가."</se>
+    <weight variant_id="1">0</weight>
+  </para>
+  <para id="546">
+    <se lang="ru" variant_id="0">И когда умилилась женщина на чужих детей и заплакала, я в ней увидал живого бога и понял, чем люди живы.</se>
+    <se lang="lt" variant_id="1">그 부인이 남의 아이들로 인해 감격의 눈물을 흘리는 모습에서 저는 살아 계신 하느님을 발견했습니다. 또한 사람은 무엇으로 사는가에 대한 해답도 깨달았지요.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="547">
+    <se lang="ru" variant_id="0">И узнал, что бог открыл мне последнее слово и простил меня, и улыбнулся я в третий раз.</se>
+    <se lang="lt" variant_id="1">하느님께서 마지막 깨달음을 주심으로써 마침내 저를 용서해 주시 것을 알고 너무 기쁜 나머지 세 번째로 웃었던 것입니다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="548">
+    <se lang="ru" variant_id="0">И обнажилось тело ангела, и оделся он весь светом, так что глазу нельзя смотреть на него; и заговорил он громче, как будто не из него, а с неба шел его голос. И сказал ангел: </se>
+    <se lang="lt" variant_id="1">이윽고 천사의 모습이 드러났는데, 전신이 눈부신 빛으로 에워싸여 똑바로 쳐다볼 수 없을 정도였다. 천사가 커다란 목소리로 말하기 시작했다. 스스로 말을 하는 것이 아니라 마치 하늘에서 소리가 울려오는 것 같았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="549">
+    <se lang="ru" variant_id="0">– Узнал я, что жив всякий человек не заботой о себе, а любовью.</se>
+    <se lang="lt" variant_id="1">- 나는 이와 같은 일을 깨달았다. 모든 인간은 스스로를 걱정하는 마음으로써가 아니라, 사랑으로써 살아가는 것이다.</se>
+    <weight variant_id="1">0,127273</weight>
+  </para>
+  <para id="550">
+    <se lang="ru" variant_id="0">Не дано было знать матери, чего ее детям для жизни нужно.</se>
+    <se lang="lt" variant_id="1">어머니에게는 자신의 아이들이 살아가는 데 무엇이 필요한지를 아는 힘이 주어지지 않았다.</se>
+    <weight variant_id="1">0,230769</weight>
+  </para>
+  <para id="551">
+    <se lang="ru" variant_id="0">Не дано было знать богачу, чего ему самому нужно.</se>
+    <se lang="lt" variant_id="1">부자 또한 자기에게 무엇이 필요한지 알지 못했다.</se>
+    <weight variant_id="1">0,292683</weight>
+  </para>
+  <para id="552">
+    <se lang="ru" variant_id="0">И не дано знать ни одному человеку – сапоги на живого или босовики ему же на мертвого к вечеру нужны.</se>
+    <se lang="lt" variant_id="1">어떤 인간에게도 자기에게 필요한 것이 살아서 신을 장화인지, 죽은 뒤 신을 슬리퍼인지 아는 것이 허락되지 않았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="553">
+    <se lang="ru" variant_id="0">Остался я жив, когда был человеком, не тем, что я сам себя обдумал, а тем, что была любовь в прохожем человеке и в жене его и они пожалели и полюбили меня.</se>
+    <se lang="lt" variant_id="1">내가 인간이었을 때 무사히 살아갈 수 있었던 것은 나 자신이 내 일을 여러 가지로 걱정하고 염려했기 때문이 아니라 지나가던 행인과 그 아내에게 사랑이 있어 나를 가엾게 여기고 사랑해 주었기 때문이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="554">
+    <se lang="ru" variant_id="0">Остались живы сироты не тем, что обдумали их, а тем, что была любовь в сердце чужой женщины и она пожалела, полюбила их.</se>
+    <se lang="lt" variant_id="1">두 고아들이 잘 자라 온 것도 많은 사람들이 걱정하고 염려해 준 덕분이 아니라 한 여인에게 사랑의 마음이 있어 그들을 불쌍하게 생각하고 사랑해 주었기 때문이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="555">
+    <se lang="ru" variant_id="0">И живы все люди не тем, что они сами себя обдумывают, а тем, что есть любовь в людях.</se>
+    <se lang="lt" variant_id="1">모든 인간이 살아가고 있는 것은 각자 자신의 일을 염려하기 때문이 아니라 그들 가운데 사랑이 있기 때문이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="556">
+    <se lang="ru" variant_id="0">Знал я прежде, что бог дал жизнь людям и хочет, чтобы они жили; теперь понял я еще и другое.</se>
+    <se lang="lt" variant_id="1">나는 일찍이 하느님께서 인간에게 생명을 주시고 그들이 잘 살아기기를 바라고 계시다는 것을 알았지만, 이제 다시 한 가지를 깨달았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="557">
+    <se lang="ru" variant_id="0">Я понял, что бог не хотел, чтобы люди врозь жили, и затем не открыл им того, что каждому для себя нужно, а хотел, чтоб они жили заодно, и затем открыл им то, что им всем для себя и для всех нужно.</se>
+    <se lang="lt" variant_id="1">이는 곧 하느님께서 인간들이 뿔뿔이 흩어져 사는 것을 원치 않으신다는 것이다. 바로 그렇기 때문에 하느님께서는 인간 각자에게 무엇이 필요한가를 보여주지 않으시는 것이다. 그분은 인간들이 하나가 되어 살아가기를 원하시며, 그래서 자신과 모든 인간을 위해 진정으로 필요한 것이 무엇인지를 계시하긴 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="558">
+    <se lang="ru" variant_id="0">Понял я теперь, что кажется только людям, что они заботой о себе живы, а что живы они одною любовью.</se>
+    <se lang="lt" variant_id="1">이제야말로 나는 깨달았다. 작자 자신을 걱정함으로써 살아갈 수 있다고 생각하는 것은 인간들의 착각일 뿐, 진실로 인간은 오직 사랑에 의해 살아가는 것이다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="559">
+    <se lang="ru" variant_id="0">Кто в любви, тот в боге и бог в нем, потому что бог есть любовь.</se>
+    <se lang="lt" variant_id="1">마음에 사랑이 가득한 자는 하느님의 나라에 살고 있는 것이며, 하느님은 그 사람 안에 계신다. 왜냐하면 하느님은 사랑이시기 때문에.</se>
+    <weight variant_id="1">-0,197727</weight>
+  </para>
+  <para id="560">
+    <se lang="ru" variant_id="0">И запел ангел хвалу богу, и от голоса его затряслась изба.</se>
+    <se lang="lt" variant_id="1">말을 마치자 천사는 하느님을 찬양하는 노래를 부르기 시작했다. 웅장한 목소리가 울려퍼져 온 집안이 울리는 듯 했다.</se>
+    <weight variant_id="1">0,012</weight>
+  </para>
+  <para id="561">
+    <se lang="ru" variant_id="0">И раздвинулся потолок, и встал огненный столб от земли до неба.</se>
+    <se lang="lt" variant_id="1">그때 천장이 갈라지고 땅에서 하늘까지 불기둥이 치솟았다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="562">
+    <se lang="ru" variant_id="0">И попадали Семен с женой и с детьми на землю.</se>
+    <se lang="lt" variant_id="1">세몬과 그의 아내와 아이들은 저도 모르게 땅바닥에 엎드렸다.</se>
+    <weight variant_id="1">-0,035</weight>
+  </para>
+  <para id="563">
+    <se lang="ru" variant_id="0">И распустились у ангела за спиной крылья, и поднялся он на небо.</se>
+    <se lang="lt" variant_id="1">미하일의 등에 날개가 돋아나 활짝 펼쳐졌다. 천사는 하늘로 날아올라갔다.</se>
+    <weight variant_id="1">-0,103125</weight>
+  </para>
+  <para id="564">
+    <se lang="ru" variant_id="0">И когда очнулся Семен, изба стояла по-прежнему, и в избе уже никого, кроме семейных, не было.</se>
+    <se lang="lt" variant_id="1">이윽고 세몬이 정신을 차렸을때는 집은 옛날 모습 그대로였고, 방 안에는 그의 가족 외에는 아무도 없었다.</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+</body>
+</html>

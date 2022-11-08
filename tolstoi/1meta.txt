@@ -1,0 +1,14 @@
+name_r:Чем люди живы
+data_r:1885
+author_r:Лев Толстой
+birth:1828
+name_k:사람은 무엇으로 사는가
+author_k:레프 톨스토이
+translat_k:김근식|고산
+data_k:2007
+ganre:художественная
+orig:rus
+transl:kor
+
+
+

@@ -1,0 +1,36 @@
+kor_url:
+rus_url:
+data:
+author:
+
+
+inosmi_1.txt
+kor_url:https://www.seoul.co.kr/news/newsView.php?id=20140312030004
+rus_url:https://inosmi.ru/20140321/218833354.html
+data:2014.03.12
+author Ким Ен Хван
+inosmi_2.txt
+kor_url:https://www.seoul.co.kr/news/newsView.php?id=20170727011003
+rus_url:https://inosmi.ru/20170801/239946751.html
+data:2014.04.27
+author:Ха Джон Хун (Ha Jong Hun)
+inosmi_3.txt
+kor_url:https://www.chosun.com/site/data/html_dir/2014/03/12/2014031202641.html
+rus_url:https://inosmi.ru/20140317/218661738.html
+data:2014.03.12
+author:Ли Е Ран
+inosmi_4.txt
+kor_url:https://www.seoul.co.kr/news/newsView.php?code=seoul&id=20140310031009&keyword=%25B3%25AA%25BA%25F1%2520%25C8%25BF%25B0%25FA
+rus_url:https://inosmi.ru/20140312/218471537.html
+data:2014.03.10
+author:Хан Сын Пом
+inosmi_5.txt
+kor_url:http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140319.22026202319
+rus_url:https://inosmi.ru/20140324/218926592.html
+data:2014.03.18
+author:Кан Дон Су
+inosmi_6.txt
+kor_url:http://www.sisafocus.co.kr/news/articleView.html?idxno=195608
+rus_url:https://inosmi.ru/20181107/243785538.html
+data:2018.11.06
+author:Пак Ко Ын (박고은)
